@@ -1,0 +1,2496 @@
+{
+  "significant_locations": [
+    {
+      "cluster_id": 0,
+      "center_location": "geo:38.01676128358209,-78.49896752238807",
+      "visit_count": 67,
+      "visits": [
+        {
+          "endTime": "2025-02-12T10:01:49.192-05:00",
+          "startTime": "2025-02-11T23:01:58.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.467141",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.569597"
+          }
+        },
+        {
+          "endTime": "2025-02-12T19:48:38.196-05:00",
+          "startTime": "2025-02-12T17:33:46.998-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.537992",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.920904"
+          }
+        },
+        {
+          "endTime": "2025-02-12T20:04:05.312-05:00",
+          "startTime": "2025-02-12T19:52:57.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.870158",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ1YGyX3OGs4kRgbu5tjpmT2M",
+              "placeLocation": "geo:38.008758,-78.500588"
+            },
+            "probability": "0.965473"
+          }
+        },
+        {
+          "endTime": "2025-02-12T21:02:44.999-05:00",
+          "startTime": "2025-02-12T20:57:43.403-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.443733",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.510514"
+          }
+        },
+        {
+          "endTime": "2025-02-13T09:41:36.302-05:00",
+          "startTime": "2025-02-12T21:03:09.819-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.505437",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.877464"
+          }
+        },
+        {
+          "endTime": "2025-02-13T09:52:58.205-05:00",
+          "startTime": "2025-02-13T09:41:36.302-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.559884",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.664012"
+          }
+        },
+        {
+          "endTime": "2025-02-13T20:18:39.096-05:00",
+          "startTime": "2025-02-13T19:54:33.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.497768",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.829335"
+          }
+        },
+        {
+          "endTime": "2025-02-14T09:16:27.829-05:00",
+          "startTime": "2025-02-13T20:43:13.088-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.485129",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.782082"
+          }
+        },
+        {
+          "endTime": "2025-02-15T11:04:24.954-05:00",
+          "startTime": "2025-02-14T21:58:59.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.511117",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.821195"
+          }
+        },
+        {
+          "endTime": "2025-02-15T11:50:44.971-05:00",
+          "startTime": "2025-02-15T11:39:32.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.777745",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ5ap4PnKGs4kRemEJzjLlmYY",
+              "placeLocation": "geo:38.013288,-78.502982"
+            },
+            "probability": "0.926560"
+          }
+        },
+        {
+          "endTime": "2025-02-15T11:50:44.971-05:00",
+          "startTime": "2025-02-15T11:40:20.998-05:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.924188",
+              "semanticType": "Unknown",
+              "placeID": "ChIJT2jwR3KGs4kRG0P326yrYQQ",
+              "placeLocation": "geo:38.013481,-78.502786"
+            },
+            "probability": "0.926560"
+          }
+        },
+        {
+          "endTime": "2025-02-16T09:54:39.817-05:00",
+          "startTime": "2025-02-15T11:56:59.007-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.474130",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.917874"
+          }
+        },
+        {
+          "endTime": "2025-02-16T16:57:40.738-05:00",
+          "startTime": "2025-02-16T14:24:24.150-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.571705",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.953553"
+          }
+        },
+        {
+          "endTime": "2025-02-17T10:53:59.852-05:00",
+          "startTime": "2025-02-16T19:04:43.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.511510",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.815265"
+          }
+        },
+        {
+          "endTime": "2025-02-18T09:59:23.664-05:00",
+          "startTime": "2025-02-17T20:51:02.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.569689",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.659673"
+          }
+        },
+        {
+          "endTime": "2025-02-19T10:13:35.506-05:00",
+          "startTime": "2025-02-18T21:10:13.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.443629",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.757250"
+          }
+        },
+        {
+          "endTime": "2025-02-20T08:55:47.942-05:00",
+          "startTime": "2025-02-19T19:15:51.087-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.562350",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.708209"
+          }
+        },
+        {
+          "endTime": "2025-02-21T12:17:17.050-05:00",
+          "startTime": "2025-02-20T20:04:27.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.509865",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.621616"
+          }
+        },
+        {
+          "endTime": "2025-02-21T12:24:30.000-05:00",
+          "startTime": "2025-02-21T12:18:24.826-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.812281",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ5ap4PnKGs4kRemEJzjLlmYY",
+              "placeLocation": "geo:38.013288,-78.502982"
+            },
+            "probability": "0.675421"
+          }
+        },
+        {
+          "endTime": "2025-02-21T12:24:30.000-05:00",
+          "startTime": "2025-02-21T12:18:24.826-05:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.957328",
+              "semanticType": "Unknown",
+              "placeID": "ChIJT2jwR3KGs4kRG0P326yrYQQ",
+              "placeLocation": "geo:38.013481,-78.502786"
+            },
+            "probability": "0.675421"
+          }
+        },
+        {
+          "endTime": "2025-02-21T20:11:25.019-05:00",
+          "startTime": "2025-02-21T19:53:50.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.563219",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.937581"
+          }
+        },
+        {
+          "endTime": "2025-02-22T09:01:27.664-05:00",
+          "startTime": "2025-02-21T20:35:26.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.707602",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.952877"
+          }
+        },
+        {
+          "endTime": "2025-02-23T19:46:38.520-05:00",
+          "startTime": "2025-02-23T15:10:48.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.526682",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.784396"
+          }
+        },
+        {
+          "endTime": "2025-02-23T19:57:55.306-05:00",
+          "startTime": "2025-02-23T19:51:40.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.626634",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ5ap4PnKGs4kRemEJzjLlmYY",
+              "placeLocation": "geo:38.013288,-78.502982"
+            },
+            "probability": "0.677585"
+          }
+        },
+        {
+          "endTime": "2025-02-23T19:57:55.306-05:00",
+          "startTime": "2025-02-23T19:52:01.999-05:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.947907",
+              "semanticType": "Unknown",
+              "placeID": "ChIJT2jwR3KGs4kRG0P326yrYQQ",
+              "placeLocation": "geo:38.013481,-78.502786"
+            },
+            "probability": "0.677585"
+          }
+        },
+        {
+          "endTime": "2025-02-24T09:28:32.552-05:00",
+          "startTime": "2025-02-23T20:06:10.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.502155",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.730760"
+          }
+        },
+        {
+          "endTime": "2025-02-25T09:17:00.845-05:00",
+          "startTime": "2025-02-24T21:30:31.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.456869",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.846950"
+          }
+        },
+        {
+          "endTime": "2025-02-26T08:05:21.857-05:00",
+          "startTime": "2025-02-25T19:48:53.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.580608",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.577623"
+          }
+        },
+        {
+          "endTime": "2025-02-27T10:18:38.028-05:00",
+          "startTime": "2025-02-26T17:38:51.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.447760",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.671729"
+          }
+        },
+        {
+          "endTime": "2025-02-27T21:28:20.965-05:00",
+          "startTime": "2025-02-27T18:58:05.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.577217",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.925544"
+          }
+        },
+        {
+          "endTime": "2025-02-27T21:52:41.999-05:00",
+          "startTime": "2025-02-27T21:41:50.076-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.886757",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ5ap4PnKGs4kRemEJzjLlmYY",
+              "placeLocation": "geo:38.013288,-78.502982"
+            },
+            "probability": "0.815724"
+          }
+        },
+        {
+          "endTime": "2025-02-27T21:52:41.999-05:00",
+          "startTime": "2025-02-27T21:41:50.076-05:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.908628",
+              "semanticType": "Unknown",
+              "placeID": "ChIJT2jwR3KGs4kRG0P326yrYQQ",
+              "placeLocation": "geo:38.013481,-78.502786"
+            },
+            "probability": "0.815724"
+          }
+        },
+        {
+          "endTime": "2025-02-28T09:28:18.784-05:00",
+          "startTime": "2025-02-27T21:54:06.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.633919",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.854156"
+          }
+        },
+        {
+          "endTime": "2025-03-01T09:42:13.087-05:00",
+          "startTime": "2025-02-28T18:02:51.188-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.495667",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.875758"
+          }
+        },
+        {
+          "endTime": "2025-03-01T11:26:15.095-05:00",
+          "startTime": "2025-03-01T11:18:14.098-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.733549",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ1YGyX3OGs4kRgbu5tjpmT2M",
+              "placeLocation": "geo:38.008758,-78.500588"
+            },
+            "probability": "0.970915"
+          }
+        },
+        {
+          "endTime": "2025-03-01T11:40:01.104-05:00",
+          "startTime": "2025-03-01T11:31:14.086-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.582564",
+              "semanticType": "Unknown",
+              "placeID": "ChIJRbWSYOCFs4kRvx5NnipFsz4",
+              "placeLocation": "geo:38.000771,-78.497143"
+            },
+            "probability": "0.907386"
+          }
+        },
+        {
+          "endTime": "2025-03-01T16:42:45.102-05:00",
+          "startTime": "2025-03-01T11:57:45.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.538504",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.892423"
+          }
+        },
+        {
+          "endTime": "2025-03-02T10:02:46.103-05:00",
+          "startTime": "2025-03-01T19:14:08.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.471976",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.820511"
+          }
+        },
+        {
+          "endTime": "2025-03-02T20:39:08.962-05:00",
+          "startTime": "2025-03-02T16:16:56.092-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.462603",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.862870"
+          }
+        },
+        {
+          "endTime": "2025-03-02T21:07:16.957-05:00",
+          "startTime": "2025-03-02T20:47:29.553-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.861816",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ5ap4PnKGs4kRemEJzjLlmYY",
+              "placeLocation": "geo:38.013288,-78.502982"
+            },
+            "probability": "0.892702"
+          }
+        },
+        {
+          "endTime": "2025-03-02T21:07:16.957-05:00",
+          "startTime": "2025-03-02T20:47:29.553-05:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.924494",
+              "semanticType": "Unknown",
+              "placeID": "ChIJT2jwR3KGs4kRG0P326yrYQQ",
+              "placeLocation": "geo:38.013481,-78.502786"
+            },
+            "probability": "0.892702"
+          }
+        },
+        {
+          "endTime": "2025-03-04T09:41:48.328-05:00",
+          "startTime": "2025-03-03T20:27:35.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.575127",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.892256"
+          }
+        },
+        {
+          "endTime": "2025-03-05T09:28:39.085-05:00",
+          "startTime": "2025-03-04T20:52:03.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.551904",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.938742"
+          }
+        },
+        {
+          "endTime": "2025-03-06T10:31:33.096-05:00",
+          "startTime": "2025-03-05T19:31:17.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.577578",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.606827"
+          }
+        },
+        {
+          "endTime": "2025-03-06T20:27:40.998-05:00",
+          "startTime": "2025-03-06T20:13:35.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.707001",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.602594"
+          }
+        },
+        {
+          "endTime": "2025-03-06T20:42:56.027-05:00",
+          "startTime": "2025-03-06T20:31:53.079-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.808205",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ1YGyX3OGs4kRgbu5tjpmT2M",
+              "placeLocation": "geo:38.008758,-78.500588"
+            },
+            "probability": "0.975609"
+          }
+        },
+        {
+          "endTime": "2025-03-07T09:44:20.802-05:00",
+          "startTime": "2025-03-06T20:53:17.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.463210",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.788423"
+          }
+        },
+        {
+          "endTime": "2025-03-08T08:50:58.260-05:00",
+          "startTime": "2025-03-07T20:19:52.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.538594",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.480101"
+          }
+        },
+        {
+          "endTime": "2025-03-08T10:38:36.999-05:00",
+          "startTime": "2025-03-08T10:36:02.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.481935",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.678513"
+          }
+        },
+        {
+          "endTime": "2025-03-08T13:16:03.532-05:00",
+          "startTime": "2025-03-08T10:38:36.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.522357",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.956109"
+          }
+        },
+        {
+          "endTime": "2025-03-09T12:31:35.364-04:00",
+          "startTime": "2025-03-08T20:45:17.998-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.442130",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.627233"
+          }
+        },
+        {
+          "endTime": "2025-03-10T10:49:29.064-04:00",
+          "startTime": "2025-03-09T22:21:49.091-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.609891",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.808085"
+          }
+        },
+        {
+          "endTime": "2025-03-11T08:01:53.971-04:00",
+          "startTime": "2025-03-10T20:51:26.999-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.501658",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.884519"
+          }
+        },
+        {
+          "endTime": "2025-03-11T09:47:12.678-04:00",
+          "startTime": "2025-03-11T08:01:53.971-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.444177",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.561206"
+          }
+        },
+        {
+          "endTime": "2025-03-12T10:06:11.729-04:00",
+          "startTime": "2025-03-11T20:13:03.066-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.622017",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.663400"
+          }
+        },
+        {
+          "endTime": "2025-03-13T09:37:35.551-04:00",
+          "startTime": "2025-03-12T18:33:04.077-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.661560",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.865957"
+          }
+        },
+        {
+          "endTime": "2025-03-14T10:51:32.875-04:00",
+          "startTime": "2025-03-13T20:31:34.066-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.492446",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.498797"
+          }
+        },
+        {
+          "endTime": "2025-03-14T15:08:45.464-04:00",
+          "startTime": "2025-03-14T14:03:27.027-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.584776",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.818119"
+          }
+        },
+        {
+          "endTime": "2025-03-15T13:58:12.002-04:00",
+          "startTime": "2025-03-14T20:30:16.058-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.651273",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.793593"
+          }
+        },
+        {
+          "endTime": "2025-03-15T16:34:36.998-04:00",
+          "startTime": "2025-03-15T14:14:50.999-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.521918",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.797076"
+          }
+        },
+        {
+          "endTime": "2025-03-16T12:03:08.143-04:00",
+          "startTime": "2025-03-15T19:39:09.998-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.579269",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.884203"
+          }
+        },
+        {
+          "endTime": "2025-03-16T17:09:11.999-04:00",
+          "startTime": "2025-03-16T13:46:46.999-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.502804",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.822382"
+          }
+        },
+        {
+          "endTime": "2025-03-17T01:58:55.606-04:00",
+          "startTime": "2025-03-16T17:55:24.999-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.579509",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.539227"
+          }
+        },
+        {
+          "endTime": "2025-03-17T10:12:30.181-04:00",
+          "startTime": "2025-03-17T01:58:55.606-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.452614",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.750688"
+          }
+        },
+        {
+          "endTime": "2025-03-18T11:06:38.011-04:00",
+          "startTime": "2025-03-17T16:56:31.068-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.540151",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.568079"
+          }
+        },
+        {
+          "endTime": "2025-03-18T20:20:48.094-04:00",
+          "startTime": "2025-03-18T20:15:07.100-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.593505",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.693814"
+          }
+        },
+        {
+          "endTime": "2025-03-19T10:13:21.589-04:00",
+          "startTime": "2025-03-18T20:20:48.094-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.570889",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.555732"
+          }
+        }
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "center_location": "geo:38.032136124999994,-78.51060534375",
+      "visit_count": 64,
+      "visits": [
+        {
+          "endTime": "2025-02-12T16:59:19.090-05:00",
+          "startTime": "2025-02-12T10:06:50.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.860898",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.831789"
+          }
+        },
+        {
+          "endTime": "2025-02-13T10:04:49.534-05:00",
+          "startTime": "2025-02-13T10:00:17.093-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.151706",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.445946"
+          }
+        },
+        {
+          "endTime": "2025-02-13T13:01:17.966-05:00",
+          "startTime": "2025-02-13T10:04:49.534-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.866752",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.842196"
+          }
+        },
+        {
+          "endTime": "2025-02-13T16:39:39.893-05:00",
+          "startTime": "2025-02-13T13:15:30.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.835517",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.811628"
+          }
+        },
+        {
+          "endTime": "2025-02-13T18:13:06.714-05:00",
+          "startTime": "2025-02-13T16:43:16.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.504516",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.749024"
+          }
+        },
+        {
+          "endTime": "2025-02-13T18:23:20.754-05:00",
+          "startTime": "2025-02-13T18:14:04.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.764863",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.952687"
+          }
+        },
+        {
+          "endTime": "2025-02-14T12:31:24.000-05:00",
+          "startTime": "2025-02-14T09:22:17.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.849199",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.890092"
+          }
+        },
+        {
+          "endTime": "2025-02-14T18:38:50.093-05:00",
+          "startTime": "2025-02-14T12:50:37.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.807618",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.697507"
+          }
+        },
+        {
+          "endTime": "2025-02-15T11:33:31.218-05:00",
+          "startTime": "2025-02-15T11:10:19.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.858039",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.944298"
+          }
+        },
+        {
+          "endTime": "2025-02-16T18:41:57.452-05:00",
+          "startTime": "2025-02-16T17:02:40.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.800701",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.905344"
+          }
+        },
+        {
+          "endTime": "2025-02-17T20:43:14.159-05:00",
+          "startTime": "2025-02-17T10:59:20.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.803207",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.879594"
+          }
+        },
+        {
+          "endTime": "2025-02-18T17:56:15.999-05:00",
+          "startTime": "2025-02-18T10:18:18.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.845542",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.945497"
+          }
+        },
+        {
+          "endTime": "2025-02-18T21:01:26.266-05:00",
+          "startTime": "2025-02-18T18:22:23.083-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.855614",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.987756"
+          }
+        },
+        {
+          "endTime": "2025-02-19T18:55:24.088-05:00",
+          "startTime": "2025-02-19T10:19:34.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.737498",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.631597"
+          }
+        },
+        {
+          "endTime": "2025-02-20T09:06:09.999-05:00",
+          "startTime": "2025-02-20T09:02:22.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.147151",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.463046"
+          }
+        },
+        {
+          "endTime": "2025-02-20T12:26:51.615-05:00",
+          "startTime": "2025-02-20T09:06:09.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.836245",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.866105"
+          }
+        },
+        {
+          "endTime": "2025-02-20T19:54:46.494-05:00",
+          "startTime": "2025-02-20T13:04:11.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.882253",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.951005"
+          }
+        },
+        {
+          "endTime": "2025-02-21T17:53:34.102-05:00",
+          "startTime": "2025-02-21T12:29:52.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.822301",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.726334"
+          }
+        },
+        {
+          "endTime": "2025-02-21T19:48:28.999-05:00",
+          "startTime": "2025-02-21T17:58:38.998-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.200514",
+              "semanticType": "Unknown",
+              "placeID": "ChIJpYCI8_SHs4kRAbLaT5H7Abg",
+              "placeLocation": "geo:38.028490,-78.514636"
+            },
+            "probability": "0.719370"
+          }
+        },
+        {
+          "endTime": "2025-02-21T20:21:45.999-05:00",
+          "startTime": "2025-02-21T20:17:47.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.864001",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.850598"
+          }
+        },
+        {
+          "endTime": "2025-02-24T09:38:52.076-05:00",
+          "startTime": "2025-02-24T09:34:14.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.122776",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.470576"
+          }
+        },
+        {
+          "endTime": "2025-02-24T17:57:08.000-05:00",
+          "startTime": "2025-02-24T09:38:52.076-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.878010",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.736876"
+          }
+        },
+        {
+          "endTime": "2025-02-24T21:25:22.796-05:00",
+          "startTime": "2025-02-24T18:12:24.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.902873",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.968991"
+          }
+        },
+        {
+          "endTime": "2025-02-25T12:11:05.986-05:00",
+          "startTime": "2025-02-25T09:25:57.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.904793",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.857399"
+          }
+        },
+        {
+          "endTime": "2025-02-25T19:40:15.994-05:00",
+          "startTime": "2025-02-25T12:29:06.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.824658",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.599888"
+          }
+        },
+        {
+          "endTime": "2025-02-26T12:26:18.998-05:00",
+          "startTime": "2025-02-26T09:05:05.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.627628",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.966468"
+          }
+        },
+        {
+          "endTime": "2025-02-26T17:25:31.999-05:00",
+          "startTime": "2025-02-26T13:04:57.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.873903",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.839194"
+          }
+        },
+        {
+          "endTime": "2025-02-27T13:02:29.959-05:00",
+          "startTime": "2025-02-27T10:25:01.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.895351",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.911472"
+          }
+        },
+        {
+          "endTime": "2025-02-27T16:47:17.647-05:00",
+          "startTime": "2025-02-27T13:40:33.998-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.874494",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.882652"
+          }
+        },
+        {
+          "endTime": "2025-02-27T18:45:08.001-05:00",
+          "startTime": "2025-02-27T17:16:12.098-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.500022",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.863470"
+          }
+        },
+        {
+          "endTime": "2025-02-28T12:26:30.546-05:00",
+          "startTime": "2025-02-28T09:33:28.001-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.911643",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.931014"
+          }
+        },
+        {
+          "endTime": "2025-02-28T17:51:23.385-05:00",
+          "startTime": "2025-02-28T13:15:36.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.826077",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.962537"
+          }
+        },
+        {
+          "endTime": "2025-03-01T19:01:19.347-05:00",
+          "startTime": "2025-03-01T16:54:30.100-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.750368",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.896564"
+          }
+        },
+        {
+          "endTime": "2025-03-03T12:04:16.418-05:00",
+          "startTime": "2025-03-03T09:42:28.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.847954",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.901495"
+          }
+        },
+        {
+          "endTime": "2025-03-03T20:17:30.279-05:00",
+          "startTime": "2025-03-03T12:26:32.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.876663",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.927765"
+          }
+        },
+        {
+          "endTime": "2025-03-04T09:52:34.076-05:00",
+          "startTime": "2025-03-04T09:48:30.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.432765",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.504397"
+          }
+        },
+        {
+          "endTime": "2025-03-04T12:26:04.633-05:00",
+          "startTime": "2025-03-04T09:52:34.076-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.927666",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.995249"
+          }
+        },
+        {
+          "endTime": "2025-03-04T17:56:30.474-05:00",
+          "startTime": "2025-03-04T13:22:35.090-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.770670",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.973757"
+          }
+        },
+        {
+          "endTime": "2025-03-04T18:36:12.167-05:00",
+          "startTime": "2025-03-04T17:56:30.474-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.672696",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.395559"
+          }
+        },
+        {
+          "endTime": "2025-03-04T18:07:50.999-05:00",
+          "startTime": "2025-03-04T18:02:10.998-05:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.623263",
+              "semanticType": "Unknown",
+              "placeID": "ChIJHbPSh1mGs4kRooYiTnOt7nU",
+              "placeLocation": "geo:38.034820,-78.515183"
+            },
+            "probability": "0.395559"
+          }
+        },
+        {
+          "endTime": "2025-03-04T18:23:29.970-05:00",
+          "startTime": "2025-03-04T18:08:20.999-05:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.787579",
+              "semanticType": "Unknown",
+              "placeID": "ChIJj5PlUliGs4kRkctmFM6bQsE",
+              "placeLocation": "geo:38.035037,-78.517565"
+            },
+            "probability": "0.395559"
+          }
+        },
+        {
+          "endTime": "2025-03-04T20:42:23.705-05:00",
+          "startTime": "2025-03-04T18:41:41.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.915173",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.932082"
+          }
+        },
+        {
+          "endTime": "2025-03-05T18:43:44.529-05:00",
+          "startTime": "2025-03-05T09:33:34.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.917996",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.941055"
+          }
+        },
+        {
+          "endTime": "2025-03-06T17:16:39.695-05:00",
+          "startTime": "2025-03-06T10:33:44.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.913606",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.852589"
+          }
+        },
+        {
+          "endTime": "2025-03-06T20:06:48.102-05:00",
+          "startTime": "2025-03-06T19:12:27.998-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.425581",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.965151"
+          }
+        },
+        {
+          "endTime": "2025-03-06T20:06:48.102-05:00",
+          "startTime": "2025-03-06T19:15:33.080-05:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.633885",
+              "semanticType": "Unknown",
+              "placeID": "ChIJHbPSh1mGs4kRooYiTnOt7nU",
+              "placeLocation": "geo:38.034820,-78.515183"
+            },
+            "probability": "0.965151"
+          }
+        },
+        {
+          "endTime": "2025-03-07T12:18:41.661-05:00",
+          "startTime": "2025-03-07T09:47:17.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.888081",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.907142"
+          }
+        },
+        {
+          "endTime": "2025-03-07T20:04:33.975-05:00",
+          "startTime": "2025-03-07T12:31:29.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.752092",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.721570"
+          }
+        },
+        {
+          "endTime": "2025-03-08T19:13:31.903-05:00",
+          "startTime": "2025-03-08T16:52:01.096-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.576352",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.730559"
+          }
+        },
+        {
+          "endTime": "2025-03-10T20:47:01.558-04:00",
+          "startTime": "2025-03-10T10:54:20.001-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.737432",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.657121"
+          }
+        },
+        {
+          "endTime": "2025-03-11T20:07:31.889-04:00",
+          "startTime": "2025-03-11T09:49:49.000-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.711998",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.563137"
+          }
+        },
+        {
+          "endTime": "2025-03-12T17:40:19.213-04:00",
+          "startTime": "2025-03-12T10:10:09.000-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.904304",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.950913"
+          }
+        },
+        {
+          "endTime": "2025-03-12T18:26:22.403-04:00",
+          "startTime": "2025-03-12T17:40:19.213-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.618332",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.619605"
+          }
+        },
+        {
+          "endTime": "2025-03-12T18:26:22.403-04:00",
+          "startTime": "2025-03-12T17:41:24.474-04:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.557052",
+              "semanticType": "Unknown",
+              "placeID": "ChIJpyGb7luGs4kRIMwkg1whbHk",
+              "placeLocation": "geo:38.032882,-78.513558"
+            },
+            "probability": "0.619605"
+          }
+        },
+        {
+          "endTime": "2025-03-13T16:46:27.799-04:00",
+          "startTime": "2025-03-13T09:43:08.999-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.889832",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.888174"
+          }
+        },
+        {
+          "endTime": "2025-03-14T13:58:34.249-04:00",
+          "startTime": "2025-03-14T10:57:07.000-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.906057",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.858921"
+          }
+        },
+        {
+          "endTime": "2025-03-14T20:23:28.160-04:00",
+          "startTime": "2025-03-14T15:11:10.000-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.898447",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.939964"
+          }
+        },
+        {
+          "endTime": "2025-03-15T19:23:31.481-04:00",
+          "startTime": "2025-03-15T16:56:21.095-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.375563",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.958170"
+          }
+        },
+        {
+          "endTime": "2025-03-17T15:27:40.085-04:00",
+          "startTime": "2025-03-17T10:16:33.999-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.907895",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.944506"
+          }
+        },
+        {
+          "endTime": "2025-03-18T13:47:04.000-04:00",
+          "startTime": "2025-03-18T11:09:22.000-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.832764",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.953122"
+          }
+        },
+        {
+          "endTime": "2025-03-18T20:15:07.100-04:00",
+          "startTime": "2025-03-18T13:57:59.362-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.919425",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.900199"
+          }
+        },
+        {
+          "endTime": "2025-03-19T14:09:19.913-04:00",
+          "startTime": "2025-03-19T10:15:46.000-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.900084",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.863280"
+          }
+        },
+        {
+          "endTime": "2025-03-19T18:06:48.808-04:00",
+          "startTime": "2025-03-19T14:54:07.999-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.903783",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.942392"
+          }
+        },
+        {
+          "endTime": "2025-03-19T18:23:00.423-04:00",
+          "startTime": "2025-03-19T18:08:55.999-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.657829",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.737340"
+          }
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "center_location": "geo:38.066354625,-78.49079950000001",
+      "visit_count": 8,
+      "visits": [
+        {
+          "endTime": "2025-02-12T17:21:03.999-05:00",
+          "startTime": "2025-02-12T17:15:57.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.644436",
+              "semanticType": "Unknown",
+              "placeID": "ChIJhynn--iHs4kRW08elT-yrkg",
+              "placeLocation": "geo:38.068385,-78.488569"
+            },
+            "probability": "0.695296"
+          }
+        },
+        {
+          "endTime": "2025-02-14T21:48:51.620-05:00",
+          "startTime": "2025-02-14T18:51:24.101-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.914321",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ1cS0HsKHs4kRHcXgPgU1f_g",
+              "placeLocation": "geo:38.065186,-78.492411"
+            },
+            "probability": "0.886093"
+          }
+        },
+        {
+          "endTime": "2025-02-14T20:21:11.962-05:00",
+          "startTime": "2025-02-14T18:51:24.101-05:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.441422",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ_aRn5MGHs4kRuuNCKBnXk-w",
+              "placeLocation": "geo:38.064877,-78.492874"
+            },
+            "probability": "0.886093"
+          }
+        },
+        {
+          "endTime": "2025-02-23T14:00:13.091-05:00",
+          "startTime": "2025-02-23T13:57:02.092-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.112124",
+              "semanticType": "Unknown",
+              "placeID": "ChIJB5vNC-iHs4kRPmHhCBMRwy4",
+              "placeLocation": "geo:38.066383,-78.486747"
+            },
+            "probability": "0.500353"
+          }
+        },
+        {
+          "endTime": "2025-02-23T14:51:13.999-05:00",
+          "startTime": "2025-02-23T14:00:13.091-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.420659",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ02ss_OiHs4kRGskTqGAbMdI",
+              "placeLocation": "geo:38.069104,-78.490289"
+            },
+            "probability": "0.933548"
+          }
+        },
+        {
+          "endTime": "2025-03-08T09:46:43.135-05:00",
+          "startTime": "2025-03-08T09:25:10.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.825205",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ02ss_OiHs4kRGskTqGAbMdI",
+              "placeLocation": "geo:38.069104,-78.490289"
+            },
+            "probability": "0.948919"
+          }
+        },
+        {
+          "endTime": "2025-03-08T10:22:32.105-05:00",
+          "startTime": "2025-03-08T09:56:34.101-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.186386",
+              "semanticType": "Unknown",
+              "placeID": "ChIJr7c4zqmHs4kRRLVHKzvHnzs",
+              "placeLocation": "geo:38.058694,-78.494928"
+            },
+            "probability": "0.930228"
+          }
+        },
+        {
+          "endTime": "2025-03-16T12:46:32.092-04:00",
+          "startTime": "2025-03-16T12:17:16.093-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.571590",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ02ss_OiHs4kRGskTqGAbMdI",
+              "placeLocation": "geo:38.069104,-78.490289"
+            },
+            "probability": "0.958231"
+          }
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "center_location": "geo:38.036050800000005,-78.49120395",
+      "visit_count": 20,
+      "visits": [
+        {
+          "endTime": "2025-02-13T18:39:23.999-05:00",
+          "startTime": "2025-02-13T18:36:24.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.083761",
+              "semanticType": "Unknown",
+              "placeID": "ChIJlQFGaDGGs4kRiAUn8ti51Pg",
+              "placeLocation": "geo:38.039194,-78.490781"
+            },
+            "probability": "0.678129"
+          }
+        },
+        {
+          "endTime": "2025-02-13T19:33:22.614-05:00",
+          "startTime": "2025-02-13T18:39:23.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.467267",
+              "semanticType": "Unknown",
+              "placeID": "ChIJvY7ibDGGs4kRMPfjKSkIZKA",
+              "placeLocation": "geo:38.038909,-78.489868"
+            },
+            "probability": "0.992636"
+          }
+        },
+        {
+          "endTime": "2025-02-13T20:36:58.096-05:00",
+          "startTime": "2025-02-13T20:22:36.094-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.222102",
+              "semanticType": "Unknown",
+              "placeID": "ChIJN2_fpzmGs4kR42UkMikN2PE",
+              "placeLocation": "geo:38.032188,-78.494383"
+            },
+            "probability": "0.897393"
+          }
+        },
+        {
+          "endTime": "2025-02-20T12:38:42.999-05:00",
+          "startTime": "2025-02-20T12:34:21.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.036036",
+              "semanticType": "Unknown",
+              "placeID": "ChIJG1QGNDGGs4kRyFtleiiUwyg",
+              "placeLocation": "geo:38.038113,-78.491920"
+            },
+            "probability": "0.394407"
+          }
+        },
+        {
+          "endTime": "2025-02-20T12:49:03.717-05:00",
+          "startTime": "2025-02-20T12:38:42.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.413462",
+              "semanticType": "Unknown",
+              "placeID": "ChIJBc6fDquHs4kR5JknQQb_V_o",
+              "placeLocation": "geo:38.038508,-78.489627"
+            },
+            "probability": "0.978381"
+          }
+        },
+        {
+          "endTime": "2025-02-20T12:57:24.981-05:00",
+          "startTime": "2025-02-20T12:49:03.717-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.517185",
+              "semanticType": "Unknown",
+              "placeID": "ChIJvY7ibDGGs4kRMPfjKSkIZKA",
+              "placeLocation": "geo:38.038909,-78.489868"
+            },
+            "probability": "0.439403"
+          }
+        },
+        {
+          "endTime": "2025-02-23T15:07:55.999-05:00",
+          "startTime": "2025-02-23T15:01:16.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.408210",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ5yOHPSWGs4kRdSj59Srjr60",
+              "placeLocation": "geo:38.032283,-78.485405"
+            },
+            "probability": "0.962828"
+          }
+        },
+        {
+          "endTime": "2025-02-24T18:07:30.000-05:00",
+          "startTime": "2025-02-24T18:00:37.001-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.210019",
+              "semanticType": "Unknown",
+              "placeID": "ChIJN2_fpzmGs4kR42UkMikN2PE",
+              "placeLocation": "geo:38.032188,-78.494383"
+            },
+            "probability": "0.870586"
+          }
+        },
+        {
+          "endTime": "2025-02-25T12:22:01.000-05:00",
+          "startTime": "2025-02-25T12:17:05.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.354050",
+              "semanticType": "Unknown",
+              "placeID": "ChIJD2LftRiHs4kRkt32IZrxrHU",
+              "placeLocation": "geo:38.037998,-78.491035"
+            },
+            "probability": "0.684495"
+          }
+        },
+        {
+          "endTime": "2025-02-26T13:00:56.706-05:00",
+          "startTime": "2025-02-26T12:35:46.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.179828",
+              "semanticType": "Unknown",
+              "placeID": "ChIJl_hGnDmGs4kR16BphTF3wBI",
+              "placeLocation": "geo:38.032117,-78.493750"
+            },
+            "probability": "0.883827"
+          }
+        },
+        {
+          "endTime": "2025-02-27T13:34:14.039-05:00",
+          "startTime": "2025-02-27T13:10:19.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.373908",
+              "semanticType": "Unknown",
+              "placeID": "ChIJvY7ibDGGs4kRMPfjKSkIZKA",
+              "placeLocation": "geo:38.038909,-78.489868"
+            },
+            "probability": "0.943861"
+          }
+        },
+        {
+          "endTime": "2025-02-28T13:04:44.389-05:00",
+          "startTime": "2025-02-28T12:30:08.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.296958",
+              "semanticType": "Unknown",
+              "placeID": "ChIJN2_fpzmGs4kR42UkMikN2PE",
+              "placeLocation": "geo:38.032188,-78.494383"
+            },
+            "probability": "0.940062"
+          }
+        },
+        {
+          "endTime": "2025-03-01T11:14:11.087-05:00",
+          "startTime": "2025-03-01T11:04:40.102-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.481126",
+              "semanticType": "Unknown",
+              "placeID": "ChIJbf5ExT2Gs4kRgxnhl_sfmbo",
+              "placeLocation": "geo:38.026207,-78.490467"
+            },
+            "probability": "0.776312"
+          }
+        },
+        {
+          "endTime": "2025-03-03T12:15:06.999-05:00",
+          "startTime": "2025-03-03T12:11:16.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.085212",
+              "semanticType": "Unknown",
+              "placeID": "ChIJqUucetd3tIkReKvKBUS2mtw",
+              "placeLocation": "geo:38.033222,-78.494152"
+            },
+            "probability": "0.612673"
+          }
+        },
+        {
+          "endTime": "2025-03-04T13:16:36.086-05:00",
+          "startTime": "2025-03-04T12:40:33.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.219121",
+              "semanticType": "Unknown",
+              "placeID": "ChIJvY7ibDGGs4kRMPfjKSkIZKA",
+              "placeLocation": "geo:38.038909,-78.489868"
+            },
+            "probability": "0.934299"
+          }
+        },
+        {
+          "endTime": "2025-03-08T20:16:25.091-05:00",
+          "startTime": "2025-03-08T19:20:46.093-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.457494",
+              "semanticType": "Unknown",
+              "placeID": "ChIJvY7ibDGGs4kRMPfjKSkIZKA",
+              "placeLocation": "geo:38.038909,-78.489868"
+            },
+            "probability": "0.985247"
+          }
+        },
+        {
+          "endTime": "2025-03-13T20:26:58.000-04:00",
+          "startTime": "2025-03-13T19:29:42.095-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.595405",
+              "semanticType": "Unknown",
+              "placeID": "ChIJvY7ibDGGs4kRMPfjKSkIZKA",
+              "placeLocation": "geo:38.038909,-78.489868"
+            },
+            "probability": "0.942354"
+          }
+        },
+        {
+          "endTime": "2025-03-16T13:25:53.998-04:00",
+          "startTime": "2025-03-16T12:57:37.999-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.529829",
+              "semanticType": "Unknown",
+              "placeID": "ChIJazqtyzOGs4kRwTQI-JDRmzg",
+              "placeLocation": "geo:38.041152,-78.489757"
+            },
+            "probability": "0.684881"
+          }
+        },
+        {
+          "endTime": "2025-03-16T13:03:32.000-04:00",
+          "startTime": "2025-03-16T12:57:37.999-04:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.413003",
+              "semanticType": "Unknown",
+              "placeID": "ChIJY58YsjSGs4kRMduf97iWSSs",
+              "placeLocation": "geo:38.040016,-78.490445"
+            },
+            "probability": "0.684881"
+          }
+        },
+        {
+          "endTime": "2025-03-19T14:41:27.547-04:00",
+          "startTime": "2025-03-19T14:20:11.999-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.059583",
+              "semanticType": "Unknown",
+              "placeID": "ChIJN2_fpzmGs4kR42UkMikN2PE",
+              "placeLocation": "geo:38.032188,-78.494383"
+            },
+            "probability": "0.659065"
+          }
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "center_location": "geo:38.40676166666666,-78.71583033333333",
+      "visit_count": 3,
+      "visits": [
+        {
+          "endTime": "2025-02-16T11:11:03.999-05:00",
+          "startTime": "2025-02-16T11:09:36.092-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.517837",
+              "semanticType": "Searched Address",
+              "placeID": "ChIJV_8tUhOLtIkR5UihprqfLSM",
+              "placeLocation": "geo:38.406789,-78.715777"
+            },
+            "probability": "0.909505"
+          }
+        },
+        {
+          "endTime": "2025-02-16T11:22:08.092-05:00",
+          "startTime": "2025-02-16T11:11:03.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.779337",
+              "semanticType": "Unknown",
+              "placeID": "ChIJk0sNQhyLtIkRiVYdJN9J6HI",
+              "placeLocation": "geo:38.406748,-78.715857"
+            },
+            "probability": "0.993266"
+          }
+        },
+        {
+          "endTime": "2025-02-16T11:22:08.092-05:00",
+          "startTime": "2025-02-16T11:11:03.999-05:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.954027",
+              "semanticType": "Unknown",
+              "placeID": "ChIJrQxoKA-LtIkRXKp7d4v4QpU",
+              "placeLocation": "geo:38.406748,-78.715857"
+            },
+            "probability": "0.993266"
+          }
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "center_location": "geo:37.915955000000004,-78.9440142",
+      "visit_count": 5,
+      "visits": [
+        {
+          "endTime": "2025-02-22T10:09:52.125-05:00",
+          "startTime": "2025-02-22T09:49:39.089-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.561608",
+              "semanticType": "Searched Address",
+              "placeID": "ChIJuUxsSSRps4kRxWwLjqf-sv4",
+              "placeLocation": "geo:37.914526,-78.943512"
+            },
+            "probability": "0.933020"
+          }
+        },
+        {
+          "endTime": "2025-02-22T12:24:49.000-05:00",
+          "startTime": "2025-02-22T11:39:32.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.502044",
+              "semanticType": "Unknown",
+              "placeID": "ChIJoe6zniBps4kRtua4FjjoN7A",
+              "placeLocation": "geo:37.921059,-78.946877"
+            },
+            "probability": "0.571795"
+          }
+        },
+        {
+          "endTime": "2025-03-02T11:31:57.095-05:00",
+          "startTime": "2025-03-02T11:02:07.099-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.457992",
+              "semanticType": "Searched Address",
+              "placeID": "ChIJuUxsSSRps4kRxWwLjqf-sv4",
+              "placeLocation": "geo:37.914526,-78.943512"
+            },
+            "probability": "0.873390"
+          }
+        },
+        {
+          "endTime": "2025-03-02T15:14:42.090-05:00",
+          "startTime": "2025-03-02T12:10:17.015-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.507552",
+              "semanticType": "Unknown",
+              "placeID": "ChIJYSNgOCRps4kRcde6mhbDY2c",
+              "placeLocation": "geo:37.914850,-78.943880"
+            },
+            "probability": "0.748527"
+          }
+        },
+        {
+          "endTime": "2025-03-02T12:14:37.000-05:00",
+          "startTime": "2025-03-02T12:10:17.015-05:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.934860",
+              "semanticType": "Unknown",
+              "placeID": "ChIJWb8gxSVps4kR6IKkWgJJrLQ",
+              "placeLocation": "geo:37.914814,-78.942290"
+            },
+            "probability": "0.748527"
+          }
+        }
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "center_location": "geo:38.0892685,-78.4704085",
+      "visit_count": 4,
+      "visits": [
+        {
+          "endTime": "2025-03-01T10:15:21.100-05:00",
+          "startTime": "2025-03-01T10:05:47.096-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.586305",
+              "semanticType": "Unknown",
+              "placeID": "ChIJeb9m0uV3tIkRWv91Rgaveo0",
+              "placeLocation": "geo:38.089537,-78.468347"
+            },
+            "probability": "0.596523"
+          }
+        },
+        {
+          "endTime": "2025-03-01T10:15:21.100-05:00",
+          "startTime": "2025-03-01T10:08:18.076-05:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.992553",
+              "semanticType": "Unknown",
+              "placeID": "ChIJmYYxW5Z3tIkRw3IRPyjuvPI",
+              "placeLocation": "geo:38.089676,-78.468678"
+            },
+            "probability": "0.596523"
+          }
+        },
+        {
+          "endTime": "2025-03-01T10:30:59.104-05:00",
+          "startTime": "2025-03-01T10:17:18.096-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.416362",
+              "semanticType": "Unknown",
+              "placeID": "ChIJWeQp-f53tIkRrGHM0kx_VtQ",
+              "placeLocation": "geo:38.089293,-78.473802"
+            },
+            "probability": "0.919298"
+          }
+        },
+        {
+          "endTime": "2025-03-01T10:45:23.099-05:00",
+          "startTime": "2025-03-01T10:31:31.098-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.149833",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ0c59vv53tIkRx3RTzC9IqqA",
+              "placeLocation": "geo:38.088568,-78.470807"
+            },
+            "probability": "0.560360"
+          }
+        }
+      ]
+    },
+    {
+      "cluster_id": 10,
+      "center_location": "geo:38.85584033333333,-77.33635133333334",
+      "visit_count": 3,
+      "visits": [
+        {
+          "endTime": "2025-03-09T14:23:43.083-04:00",
+          "startTime": "2025-03-09T14:22:30.078-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.126445",
+              "semanticType": "Unknown",
+              "placeID": "ChIJf-jX055ctokRE7QKav8o_AU",
+              "placeLocation": "geo:38.857577,-77.338339"
+            },
+            "probability": "0.568996"
+          }
+        },
+        {
+          "endTime": "2025-03-09T15:23:33.089-04:00",
+          "startTime": "2025-03-09T14:23:43.083-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.657074",
+              "semanticType": "Unknown",
+              "placeID": "ChIJI4hKpB9PtokR96MjeSrHRA8",
+              "placeLocation": "geo:38.855237,-77.334809"
+            },
+            "probability": "0.971962"
+          }
+        },
+        {
+          "endTime": "2025-03-09T15:23:33.089-04:00",
+          "startTime": "2025-03-09T14:23:43.083-04:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.492207",
+              "semanticType": "Unknown",
+              "placeID": "ChIJkeRPbodPtokRc3tqtsWVxro",
+              "placeLocation": "geo:38.854707,-77.335906"
+            },
+            "probability": "0.971962"
+          }
+        }
+      ]
+    }
+  ]
+}

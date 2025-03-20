@@ -1,0 +1,3404 @@
+{
+  "enhanced_locations": [
+    {
+      "cluster_id": 0,
+      "center_location": "geo:38.01676128358209,-78.49896752238807",
+      "visit_count": 67,
+      "place_details": {
+        "formatted_address": "100 Hurst Ln, Charlottesville, VA 22903, USA",
+        "geometry": {
+          "location": {
+            "lat": 38.0183323,
+            "lng": -78.4982649
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.01979623029149,
+              "lng": -78.4969052197085
+            },
+            "southwest": {
+              "lat": 38.0170982697085,
+              "lng": -78.4996031802915
+            }
+          }
+        },
+        "name": "100 Hurst Ln(home)",
+        "place_id": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+        "types": [
+          "premise"
+        ]
+      },
+      "visits": [
+        {
+          "endTime": "2025-02-12T10:01:49.192-05:00",
+          "startTime": "2025-02-11T23:01:58.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.467141",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.569597"
+          }
+        },
+        {
+          "endTime": "2025-02-12T19:48:38.196-05:00",
+          "startTime": "2025-02-12T17:33:46.998-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.537992",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.920904"
+          }
+        },
+        {
+          "endTime": "2025-02-12T20:04:05.312-05:00",
+          "startTime": "2025-02-12T19:52:57.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.870158",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ1YGyX3OGs4kRgbu5tjpmT2M",
+              "placeLocation": "geo:38.008758,-78.500588"
+            },
+            "probability": "0.965473"
+          }
+        },
+        {
+          "endTime": "2025-02-12T21:02:44.999-05:00",
+          "startTime": "2025-02-12T20:57:43.403-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.443733",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.510514"
+          }
+        },
+        {
+          "endTime": "2025-02-13T09:41:36.302-05:00",
+          "startTime": "2025-02-12T21:03:09.819-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.505437",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.877464"
+          }
+        },
+        {
+          "endTime": "2025-02-13T09:52:58.205-05:00",
+          "startTime": "2025-02-13T09:41:36.302-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.559884",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.664012"
+          }
+        },
+        {
+          "endTime": "2025-02-13T20:18:39.096-05:00",
+          "startTime": "2025-02-13T19:54:33.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.497768",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.829335"
+          }
+        },
+        {
+          "endTime": "2025-02-14T09:16:27.829-05:00",
+          "startTime": "2025-02-13T20:43:13.088-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.485129",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.782082"
+          }
+        },
+        {
+          "endTime": "2025-02-15T11:04:24.954-05:00",
+          "startTime": "2025-02-14T21:58:59.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.511117",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.821195"
+          }
+        },
+        {
+          "endTime": "2025-02-15T11:50:44.971-05:00",
+          "startTime": "2025-02-15T11:39:32.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.777745",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ5ap4PnKGs4kRemEJzjLlmYY",
+              "placeLocation": "geo:38.013288,-78.502982"
+            },
+            "probability": "0.926560"
+          }
+        },
+        {
+          "endTime": "2025-02-15T11:50:44.971-05:00",
+          "startTime": "2025-02-15T11:40:20.998-05:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.924188",
+              "semanticType": "Unknown",
+              "placeID": "ChIJT2jwR3KGs4kRG0P326yrYQQ",
+              "placeLocation": "geo:38.013481,-78.502786"
+            },
+            "probability": "0.926560"
+          }
+        },
+        {
+          "endTime": "2025-02-16T09:54:39.817-05:00",
+          "startTime": "2025-02-15T11:56:59.007-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.474130",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.917874"
+          }
+        },
+        {
+          "endTime": "2025-02-16T16:57:40.738-05:00",
+          "startTime": "2025-02-16T14:24:24.150-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.571705",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.953553"
+          }
+        },
+        {
+          "endTime": "2025-02-17T10:53:59.852-05:00",
+          "startTime": "2025-02-16T19:04:43.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.511510",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.815265"
+          }
+        },
+        {
+          "endTime": "2025-02-18T09:59:23.664-05:00",
+          "startTime": "2025-02-17T20:51:02.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.569689",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.659673"
+          }
+        },
+        {
+          "endTime": "2025-02-19T10:13:35.506-05:00",
+          "startTime": "2025-02-18T21:10:13.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.443629",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.757250"
+          }
+        },
+        {
+          "endTime": "2025-02-20T08:55:47.942-05:00",
+          "startTime": "2025-02-19T19:15:51.087-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.562350",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.708209"
+          }
+        },
+        {
+          "endTime": "2025-02-21T12:17:17.050-05:00",
+          "startTime": "2025-02-20T20:04:27.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.509865",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.621616"
+          }
+        },
+        {
+          "endTime": "2025-02-21T12:24:30.000-05:00",
+          "startTime": "2025-02-21T12:18:24.826-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.812281",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ5ap4PnKGs4kRemEJzjLlmYY",
+              "placeLocation": "geo:38.013288,-78.502982"
+            },
+            "probability": "0.675421"
+          }
+        },
+        {
+          "endTime": "2025-02-21T12:24:30.000-05:00",
+          "startTime": "2025-02-21T12:18:24.826-05:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.957328",
+              "semanticType": "Unknown",
+              "placeID": "ChIJT2jwR3KGs4kRG0P326yrYQQ",
+              "placeLocation": "geo:38.013481,-78.502786"
+            },
+            "probability": "0.675421"
+          }
+        },
+        {
+          "endTime": "2025-02-21T20:11:25.019-05:00",
+          "startTime": "2025-02-21T19:53:50.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.563219",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.937581"
+          }
+        },
+        {
+          "endTime": "2025-02-22T09:01:27.664-05:00",
+          "startTime": "2025-02-21T20:35:26.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.707602",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.952877"
+          }
+        },
+        {
+          "endTime": "2025-02-23T19:46:38.520-05:00",
+          "startTime": "2025-02-23T15:10:48.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.526682",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.784396"
+          }
+        },
+        {
+          "endTime": "2025-02-23T19:57:55.306-05:00",
+          "startTime": "2025-02-23T19:51:40.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.626634",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ5ap4PnKGs4kRemEJzjLlmYY",
+              "placeLocation": "geo:38.013288,-78.502982"
+            },
+            "probability": "0.677585"
+          }
+        },
+        {
+          "endTime": "2025-02-23T19:57:55.306-05:00",
+          "startTime": "2025-02-23T19:52:01.999-05:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.947907",
+              "semanticType": "Unknown",
+              "placeID": "ChIJT2jwR3KGs4kRG0P326yrYQQ",
+              "placeLocation": "geo:38.013481,-78.502786"
+            },
+            "probability": "0.677585"
+          }
+        },
+        {
+          "endTime": "2025-02-24T09:28:32.552-05:00",
+          "startTime": "2025-02-23T20:06:10.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.502155",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.730760"
+          }
+        },
+        {
+          "endTime": "2025-02-25T09:17:00.845-05:00",
+          "startTime": "2025-02-24T21:30:31.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.456869",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.846950"
+          }
+        },
+        {
+          "endTime": "2025-02-26T08:05:21.857-05:00",
+          "startTime": "2025-02-25T19:48:53.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.580608",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.577623"
+          }
+        },
+        {
+          "endTime": "2025-02-27T10:18:38.028-05:00",
+          "startTime": "2025-02-26T17:38:51.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.447760",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.671729"
+          }
+        },
+        {
+          "endTime": "2025-02-27T21:28:20.965-05:00",
+          "startTime": "2025-02-27T18:58:05.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.577217",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.925544"
+          }
+        },
+        {
+          "endTime": "2025-02-27T21:52:41.999-05:00",
+          "startTime": "2025-02-27T21:41:50.076-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.886757",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ5ap4PnKGs4kRemEJzjLlmYY",
+              "placeLocation": "geo:38.013288,-78.502982"
+            },
+            "probability": "0.815724"
+          }
+        },
+        {
+          "endTime": "2025-02-27T21:52:41.999-05:00",
+          "startTime": "2025-02-27T21:41:50.076-05:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.908628",
+              "semanticType": "Unknown",
+              "placeID": "ChIJT2jwR3KGs4kRG0P326yrYQQ",
+              "placeLocation": "geo:38.013481,-78.502786"
+            },
+            "probability": "0.815724"
+          }
+        },
+        {
+          "endTime": "2025-02-28T09:28:18.784-05:00",
+          "startTime": "2025-02-27T21:54:06.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.633919",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.854156"
+          }
+        },
+        {
+          "endTime": "2025-03-01T09:42:13.087-05:00",
+          "startTime": "2025-02-28T18:02:51.188-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.495667",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.875758"
+          }
+        },
+        {
+          "endTime": "2025-03-01T11:26:15.095-05:00",
+          "startTime": "2025-03-01T11:18:14.098-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.733549",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ1YGyX3OGs4kRgbu5tjpmT2M",
+              "placeLocation": "geo:38.008758,-78.500588"
+            },
+            "probability": "0.970915"
+          }
+        },
+        {
+          "endTime": "2025-03-01T11:40:01.104-05:00",
+          "startTime": "2025-03-01T11:31:14.086-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.582564",
+              "semanticType": "Unknown",
+              "placeID": "ChIJRbWSYOCFs4kRvx5NnipFsz4",
+              "placeLocation": "geo:38.000771,-78.497143"
+            },
+            "probability": "0.907386"
+          }
+        },
+        {
+          "endTime": "2025-03-01T16:42:45.102-05:00",
+          "startTime": "2025-03-01T11:57:45.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.538504",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.892423"
+          }
+        },
+        {
+          "endTime": "2025-03-02T10:02:46.103-05:00",
+          "startTime": "2025-03-01T19:14:08.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.471976",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.820511"
+          }
+        },
+        {
+          "endTime": "2025-03-02T20:39:08.962-05:00",
+          "startTime": "2025-03-02T16:16:56.092-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.462603",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.862870"
+          }
+        },
+        {
+          "endTime": "2025-03-02T21:07:16.957-05:00",
+          "startTime": "2025-03-02T20:47:29.553-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.861816",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ5ap4PnKGs4kRemEJzjLlmYY",
+              "placeLocation": "geo:38.013288,-78.502982"
+            },
+            "probability": "0.892702"
+          }
+        },
+        {
+          "endTime": "2025-03-02T21:07:16.957-05:00",
+          "startTime": "2025-03-02T20:47:29.553-05:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.924494",
+              "semanticType": "Unknown",
+              "placeID": "ChIJT2jwR3KGs4kRG0P326yrYQQ",
+              "placeLocation": "geo:38.013481,-78.502786"
+            },
+            "probability": "0.892702"
+          }
+        },
+        {
+          "endTime": "2025-03-04T09:41:48.328-05:00",
+          "startTime": "2025-03-03T20:27:35.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.575127",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.892256"
+          }
+        },
+        {
+          "endTime": "2025-03-05T09:28:39.085-05:00",
+          "startTime": "2025-03-04T20:52:03.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.551904",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.938742"
+          }
+        },
+        {
+          "endTime": "2025-03-06T10:31:33.096-05:00",
+          "startTime": "2025-03-05T19:31:17.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.577578",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.606827"
+          }
+        },
+        {
+          "endTime": "2025-03-06T20:27:40.998-05:00",
+          "startTime": "2025-03-06T20:13:35.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.707001",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.602594"
+          }
+        },
+        {
+          "endTime": "2025-03-06T20:42:56.027-05:00",
+          "startTime": "2025-03-06T20:31:53.079-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.808205",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ1YGyX3OGs4kRgbu5tjpmT2M",
+              "placeLocation": "geo:38.008758,-78.500588"
+            },
+            "probability": "0.975609"
+          }
+        },
+        {
+          "endTime": "2025-03-07T09:44:20.802-05:00",
+          "startTime": "2025-03-06T20:53:17.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.463210",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.788423"
+          }
+        },
+        {
+          "endTime": "2025-03-08T08:50:58.260-05:00",
+          "startTime": "2025-03-07T20:19:52.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.538594",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.480101"
+          }
+        },
+        {
+          "endTime": "2025-03-08T10:38:36.999-05:00",
+          "startTime": "2025-03-08T10:36:02.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.481935",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.678513"
+          }
+        },
+        {
+          "endTime": "2025-03-08T13:16:03.532-05:00",
+          "startTime": "2025-03-08T10:38:36.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.522357",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.956109"
+          }
+        },
+        {
+          "endTime": "2025-03-09T12:31:35.364-04:00",
+          "startTime": "2025-03-08T20:45:17.998-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.442130",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.627233"
+          }
+        },
+        {
+          "endTime": "2025-03-10T10:49:29.064-04:00",
+          "startTime": "2025-03-09T22:21:49.091-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.609891",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.808085"
+          }
+        },
+        {
+          "endTime": "2025-03-11T08:01:53.971-04:00",
+          "startTime": "2025-03-10T20:51:26.999-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.501658",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.884519"
+          }
+        },
+        {
+          "endTime": "2025-03-11T09:47:12.678-04:00",
+          "startTime": "2025-03-11T08:01:53.971-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.444177",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.561206"
+          }
+        },
+        {
+          "endTime": "2025-03-12T10:06:11.729-04:00",
+          "startTime": "2025-03-11T20:13:03.066-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.622017",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.663400"
+          }
+        },
+        {
+          "endTime": "2025-03-13T09:37:35.551-04:00",
+          "startTime": "2025-03-12T18:33:04.077-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.661560",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.865957"
+          }
+        },
+        {
+          "endTime": "2025-03-14T10:51:32.875-04:00",
+          "startTime": "2025-03-13T20:31:34.066-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.492446",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.498797"
+          }
+        },
+        {
+          "endTime": "2025-03-14T15:08:45.464-04:00",
+          "startTime": "2025-03-14T14:03:27.027-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.584776",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.818119"
+          }
+        },
+        {
+          "endTime": "2025-03-15T13:58:12.002-04:00",
+          "startTime": "2025-03-14T20:30:16.058-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.651273",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.793593"
+          }
+        },
+        {
+          "endTime": "2025-03-15T16:34:36.998-04:00",
+          "startTime": "2025-03-15T14:14:50.999-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.521918",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.797076"
+          }
+        },
+        {
+          "endTime": "2025-03-16T12:03:08.143-04:00",
+          "startTime": "2025-03-15T19:39:09.998-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.579269",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.884203"
+          }
+        },
+        {
+          "endTime": "2025-03-16T17:09:11.999-04:00",
+          "startTime": "2025-03-16T13:46:46.999-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.502804",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.822382"
+          }
+        },
+        {
+          "endTime": "2025-03-17T01:58:55.606-04:00",
+          "startTime": "2025-03-16T17:55:24.999-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.579509",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.539227"
+          }
+        },
+        {
+          "endTime": "2025-03-17T10:12:30.181-04:00",
+          "startTime": "2025-03-17T01:58:55.606-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.452614",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.750688"
+          }
+        },
+        {
+          "endTime": "2025-03-18T11:06:38.011-04:00",
+          "startTime": "2025-03-17T16:56:31.068-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.540151",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.568079"
+          }
+        },
+        {
+          "endTime": "2025-03-18T20:20:48.094-04:00",
+          "startTime": "2025-03-18T20:15:07.100-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.593505",
+              "semanticType": "Unknown",
+              "placeID": "ChIJs4ssWZizr0YRDVh8euhGwmw",
+              "placeLocation": "geo:38.017937,-78.498058"
+            },
+            "probability": "0.693814"
+          }
+        },
+        {
+          "endTime": "2025-03-19T10:13:21.589-04:00",
+          "startTime": "2025-03-18T20:20:48.094-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.570889",
+              "semanticType": "Home",
+              "placeID": "ChIJmRErtGyGs4kRRjZsNEyfKAs",
+              "placeLocation": "geo:38.018332,-78.498265"
+            },
+            "probability": "0.555732"
+          }
+        }
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "center_location": "geo:38.032136124999994,-78.51060534375",
+      "visit_count": 64,
+      "place_details": {
+        "formatted_address": "85 Engineer's Way, Charlottesville, VA 22903, USA",
+        "geometry": {
+          "location": {
+            "lat": 38.0316188,
+            "lng": -78.51084589999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.0330993802915,
+              "lng": -78.5097104697085
+            },
+            "southwest": {
+              "lat": 38.0304014197085,
+              "lng": -78.51240843029152
+            }
+          }
+        },
+        "name": "Rice Hall(work)",
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "0000"
+              },
+              "open": {
+                "day": 0,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "0000"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "0000"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "0000"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "0000"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "0000"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 0,
+                "time": "0000"
+              },
+              "open": {
+                "day": 6,
+                "time": "0800"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+            "Tuesday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+            "Wednesday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+            "Thursday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+            "Friday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+            "Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+            "Sunday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+          ]
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103985819653422351588\">Bradley Hallier</a>"
+            ],
+            "photo_reference": "AUy1YQ3u5aLTOYGqjdVvwdUORMQB9HJhI2OyxW-S0zmR6aLafUP9zoAjSQhWrSk1P4TLCse-qGZyyQXCRkBzRK6RzN32RFq_jgshzwj3xtNgUq7dCb5wRWoWtUOxe4nFR_MxUiwp7_9smGwa69PO6aiyJlQ2-0otYlz2PtdOWCJG1vOirpl_uo7hdfZCFBGVBAcMW8uESCK3uPhiPqF_LXd78dX-3E4jkQI5PTxhiAiC9vK0BIrqiP4FswveyYrW7YqVww7fxL_WmojFqm2dGfA9Np-GvmdeYaXkt4cEmzE98Q2sQVZi4KgHWtawsK4-PEsRrJhU71KQCKmUX97mNqXLtqWszQ5S5OFbtWkiC_rfQo5l1B4ZQtDWn2BOKuD56TeNKyneAYbDTw5tF73FsvFs8n77dQBbqxwNwuP1E8RpS3aDrA6v5qcY2r-4-OVO7Z5b2-fRPltknKAidDz9hRk9D-ioOwxdofCumajF58zjAn_cMEOdD_TIKVeUSYpkPzp4Ftl4GxG1H0hUHhgIQBdrwzpcYmGUKK6oh3LH3zWK-DCDTjLW8cLsO6kxjbWhF6Sm8Bs5Ov1dx74X9tpXhRV6mcsJ_NvVy226Tydt2pCdsZGshZ2I",
+            "width": 4032
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103885874190510761230\">tasneem emu</a>"
+            ],
+            "photo_reference": "AUy1YQ3HUTNfo6_a6LZ-9jSbmI7CXGXjlhZe7_j_w2Qe8r8_oJXFjvX3MmRzUXRVTUogyN8PGSeoPkkgXB9G7xaglKc_7DBSRj6j2d8UztsQoifuEMw56OlTQJmWGK31IynuQU3d43kH4v6dsvHNZUVXKYa25DhmNlhYjsWZZ4DNPZuUOSJ_byNDECHXuLJ8yTZsU8FHVkt26i4XZFs8qsZoABsic9arB0v9K5OvUsaEte2k28kwwePnlBjAEHfsRTzclgE7wVxHSaN8eBxR9Fcrc9kJ3xN1So43wHyXdrADbNxXwt5PB8zOqo3Crnk501k2L1rz9k1gr3lZH_pbWFAG49W-GVNP2LxxVMR3g4ze5HRHVY-vBP7RIOCrnIunqE3UyTDXzvq4qrMMk1cMMtrdo6zVHKWm7_whzU1cledaTTIaAoMjlHX6iYTIm7XFdB99hJ4cnbTVNo6q6n3YHkXAGQu9GOjF9RCNrUG9F8wYFwgnpPq0E_uRjJufGN3KXm-pmqBl4IL7el1CG_Yi3qsaUEXxRQGh0w3ksqbmCP2gWiFy7HdAmj3wU-bKo3qKUGjaS4cnY7QJgcUMjM03kMj_4J7Au4X9gpJfaji29YmnZ5FwQOjD",
+            "width": 4032
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101053775013818742518\">Ed Young</a>"
+            ],
+            "photo_reference": "AUy1YQ0PQeA7C-EWaDtGf8urSnxKGodaAZ9P15BiQT8RboeLttKfc1-W-R4-NvlV262ISVN2bktXQWClIrqR5ZBdfP9CFaMPN80AfsoKuo3nToapWgrFT190USoh7HQXa4DngaksELQxAdQVObzkFzcZxKrP41EnSz3iePfTRCDFbVHAD-XcT6mg_ds07jb2B43sv4gMfTXn03na3-Q06oSUn8thvC9X9s6Tz3RQCdRLP4t90DGGOlkk8Oqyp2WBWoSazOggIiebcoObZFR8PAdzIFCsXlCXdYKl1neP5ZrgqVYwtkVefoMEBsdE1CYH1Sfa5Fd5GjKSjKgBo01C2NE_wH4XVcQaqBGrvYD7xT5fulhaD2kDlGFcVca9HRTfFLSwfw1Oq9ALlKr0BZaUxBIIEhgXDiYBhIYDb5ls48dKCozJeX3VDFSxXrK_OnkMlanID9liWVcquB5NA_H_q8pF5WuxG9AKAJIbRqvtg2jwumZIb5oTE9AXCFzKkwkb4mcOsZ2Ok_V0xXUK2s9Gar1I_ZssvwQbqGfc8BgR2VZv7AB3V4utZaS3OKl4_U7uJU68-HEQtB1hT7eke_3CZO1ejw80kZ6BVW6IpJvFTVM8VhgRXHKp",
+            "width": 3024
+          },
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117288171808361410999\">Jaz</a>"
+            ],
+            "photo_reference": "AUy1YQ1QMyTH-dE1bJnCCs5_GSwqiDElb64_M58vS-DBhSjbTKbwp5NGVyD-O_1-D5i-vjfsxKlYn6krVOiVIuWnJbrgmeMXK8K_wmnKYgXtDn__7QIpQ2cRm8sRnaX0Jw8fAftoczPRAZfyT7BXji3joPZiFh6AFlpOIJ9Pxa_FRkBxOAO4-crTCt1eYcvzxdJ3e_il6CrMHv1SpMCskzLI6RXKQ_RZn1k2cn2w8xhbC8twi6RGGEgldwSVLNPHAR6htAUksW8ksVkRZbXnIqw75w69Ydvu_hZ2S1O4PeZXErnTsV1FeoqMKH5ARvd-ujxFkNzxHLvdaD46PmgO-AiN8F0ndiT-KbRDDO-T3tH-9Kw_JojJFNKvMRe_d_MCT0hIwuc8iNU1D3UrOpqzByI26KBRVsc87m9Yq9tB4F8zoP9lUgCRFMSg9JT8OdQHfGtDyPxMSzDf9CPCVYpNG5GZ1VsrH1Q-o_GnUu-dTQfytSFGMTJ219iXTcUakUZ-RsBsqJmdBc3i_qw2-PALSO0fYrbTs_U9W7i-QEbJAEcJDkxzteYAwhZ0v2Sz0uOyi1tq1adrvT--_DGZt4JAQ71PBMN83ePsh0et1oa95wenzYw",
+            "width": 4608
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105005462937868921751\">Wayne S</a>"
+            ],
+            "photo_reference": "AUy1YQ05K_9p9Otc99Xg31amSiPnooJGR5m8o0zsw0tBtJUk8wxWdyYjoADlAKWBYUW7IWl4EDqgEKLpJkibxqWWHYw3s4sGr5RsMNJFVxZWMvttFWOtt_c8IZujin6LS5lsQRMF9pHISu8n3HyVNRw5MO638kwVRjFuRvRcQ69PVt7u4dhw4X3k758C2NZWXkiyrZ1NyB1U4xWzi9nWaKxk6uHusao-rcdDsEfvgjjnTvhhnfVoaWVOhyufQ_kF024zubZmUSc2OC08W7ttnQUoy1OAyUEZBv-R1xvRiRQY6IgPLqAGq4diF6dCIXUpH4p3P4w2N_AUFXOp0kGDhkTnZsPHUoIAHjAWEcBGvmwuee6A27tfEP-mNK18HqmYp-7rK4hY_mgGNe_qks3W_oxJO-vTexs2-XvjZ679xQ53iR0-Mc0G-diuiWu6h1_gWjTKTNUrR_YG2T6qFrB3630VogV6JzbaI_xKcFTRbjCSBOG0rsAHlOCbg7LnVzxVUlCZkxXbIhf2_hmDlPKTeYzlJrtHtfSQNvbsq8pfZVdskt-FSHX1s6-cdhj-Utgj1KQW3n21ZZ1xqI6ZwK_yMGrTAoRIOPrTFFAer1y_nW_NmW0",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+        "rating": 4.7,
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 6
+      },
+      "visits": [
+        {
+          "endTime": "2025-02-12T16:59:19.090-05:00",
+          "startTime": "2025-02-12T10:06:50.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.860898",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.831789"
+          }
+        },
+        {
+          "endTime": "2025-02-13T10:04:49.534-05:00",
+          "startTime": "2025-02-13T10:00:17.093-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.151706",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.445946"
+          }
+        },
+        {
+          "endTime": "2025-02-13T13:01:17.966-05:00",
+          "startTime": "2025-02-13T10:04:49.534-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.866752",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.842196"
+          }
+        },
+        {
+          "endTime": "2025-02-13T16:39:39.893-05:00",
+          "startTime": "2025-02-13T13:15:30.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.835517",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.811628"
+          }
+        },
+        {
+          "endTime": "2025-02-13T18:13:06.714-05:00",
+          "startTime": "2025-02-13T16:43:16.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.504516",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.749024"
+          }
+        },
+        {
+          "endTime": "2025-02-13T18:23:20.754-05:00",
+          "startTime": "2025-02-13T18:14:04.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.764863",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.952687"
+          }
+        },
+        {
+          "endTime": "2025-02-14T12:31:24.000-05:00",
+          "startTime": "2025-02-14T09:22:17.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.849199",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.890092"
+          }
+        },
+        {
+          "endTime": "2025-02-14T18:38:50.093-05:00",
+          "startTime": "2025-02-14T12:50:37.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.807618",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.697507"
+          }
+        },
+        {
+          "endTime": "2025-02-15T11:33:31.218-05:00",
+          "startTime": "2025-02-15T11:10:19.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.858039",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.944298"
+          }
+        },
+        {
+          "endTime": "2025-02-16T18:41:57.452-05:00",
+          "startTime": "2025-02-16T17:02:40.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.800701",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.905344"
+          }
+        },
+        {
+          "endTime": "2025-02-17T20:43:14.159-05:00",
+          "startTime": "2025-02-17T10:59:20.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.803207",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.879594"
+          }
+        },
+        {
+          "endTime": "2025-02-18T17:56:15.999-05:00",
+          "startTime": "2025-02-18T10:18:18.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.845542",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.945497"
+          }
+        },
+        {
+          "endTime": "2025-02-18T21:01:26.266-05:00",
+          "startTime": "2025-02-18T18:22:23.083-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.855614",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.987756"
+          }
+        },
+        {
+          "endTime": "2025-02-19T18:55:24.088-05:00",
+          "startTime": "2025-02-19T10:19:34.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.737498",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.631597"
+          }
+        },
+        {
+          "endTime": "2025-02-20T09:06:09.999-05:00",
+          "startTime": "2025-02-20T09:02:22.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.147151",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.463046"
+          }
+        },
+        {
+          "endTime": "2025-02-20T12:26:51.615-05:00",
+          "startTime": "2025-02-20T09:06:09.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.836245",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.866105"
+          }
+        },
+        {
+          "endTime": "2025-02-20T19:54:46.494-05:00",
+          "startTime": "2025-02-20T13:04:11.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.882253",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.951005"
+          }
+        },
+        {
+          "endTime": "2025-02-21T17:53:34.102-05:00",
+          "startTime": "2025-02-21T12:29:52.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.822301",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.726334"
+          }
+        },
+        {
+          "endTime": "2025-02-21T19:48:28.999-05:00",
+          "startTime": "2025-02-21T17:58:38.998-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.200514",
+              "semanticType": "Unknown",
+              "placeID": "ChIJpYCI8_SHs4kRAbLaT5H7Abg",
+              "placeLocation": "geo:38.028490,-78.514636"
+            },
+            "probability": "0.719370"
+          }
+        },
+        {
+          "endTime": "2025-02-21T20:21:45.999-05:00",
+          "startTime": "2025-02-21T20:17:47.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.864001",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.850598"
+          }
+        },
+        {
+          "endTime": "2025-02-24T09:38:52.076-05:00",
+          "startTime": "2025-02-24T09:34:14.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.122776",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.470576"
+          }
+        },
+        {
+          "endTime": "2025-02-24T17:57:08.000-05:00",
+          "startTime": "2025-02-24T09:38:52.076-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.878010",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.736876"
+          }
+        },
+        {
+          "endTime": "2025-02-24T21:25:22.796-05:00",
+          "startTime": "2025-02-24T18:12:24.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.902873",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.968991"
+          }
+        },
+        {
+          "endTime": "2025-02-25T12:11:05.986-05:00",
+          "startTime": "2025-02-25T09:25:57.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.904793",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.857399"
+          }
+        },
+        {
+          "endTime": "2025-02-25T19:40:15.994-05:00",
+          "startTime": "2025-02-25T12:29:06.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.824658",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.599888"
+          }
+        },
+        {
+          "endTime": "2025-02-26T12:26:18.998-05:00",
+          "startTime": "2025-02-26T09:05:05.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.627628",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.966468"
+          }
+        },
+        {
+          "endTime": "2025-02-26T17:25:31.999-05:00",
+          "startTime": "2025-02-26T13:04:57.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.873903",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.839194"
+          }
+        },
+        {
+          "endTime": "2025-02-27T13:02:29.959-05:00",
+          "startTime": "2025-02-27T10:25:01.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.895351",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.911472"
+          }
+        },
+        {
+          "endTime": "2025-02-27T16:47:17.647-05:00",
+          "startTime": "2025-02-27T13:40:33.998-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.874494",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.882652"
+          }
+        },
+        {
+          "endTime": "2025-02-27T18:45:08.001-05:00",
+          "startTime": "2025-02-27T17:16:12.098-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.500022",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.863470"
+          }
+        },
+        {
+          "endTime": "2025-02-28T12:26:30.546-05:00",
+          "startTime": "2025-02-28T09:33:28.001-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.911643",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.931014"
+          }
+        },
+        {
+          "endTime": "2025-02-28T17:51:23.385-05:00",
+          "startTime": "2025-02-28T13:15:36.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.826077",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.962537"
+          }
+        },
+        {
+          "endTime": "2025-03-01T19:01:19.347-05:00",
+          "startTime": "2025-03-01T16:54:30.100-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.750368",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.896564"
+          }
+        },
+        {
+          "endTime": "2025-03-03T12:04:16.418-05:00",
+          "startTime": "2025-03-03T09:42:28.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.847954",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.901495"
+          }
+        },
+        {
+          "endTime": "2025-03-03T20:17:30.279-05:00",
+          "startTime": "2025-03-03T12:26:32.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.876663",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.927765"
+          }
+        },
+        {
+          "endTime": "2025-03-04T09:52:34.076-05:00",
+          "startTime": "2025-03-04T09:48:30.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.432765",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.504397"
+          }
+        },
+        {
+          "endTime": "2025-03-04T12:26:04.633-05:00",
+          "startTime": "2025-03-04T09:52:34.076-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.927666",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.995249"
+          }
+        },
+        {
+          "endTime": "2025-03-04T17:56:30.474-05:00",
+          "startTime": "2025-03-04T13:22:35.090-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.770670",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.973757"
+          }
+        },
+        {
+          "endTime": "2025-03-04T18:36:12.167-05:00",
+          "startTime": "2025-03-04T17:56:30.474-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.672696",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.395559"
+          }
+        },
+        {
+          "endTime": "2025-03-04T18:07:50.999-05:00",
+          "startTime": "2025-03-04T18:02:10.998-05:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.623263",
+              "semanticType": "Unknown",
+              "placeID": "ChIJHbPSh1mGs4kRooYiTnOt7nU",
+              "placeLocation": "geo:38.034820,-78.515183"
+            },
+            "probability": "0.395559"
+          }
+        },
+        {
+          "endTime": "2025-03-04T18:23:29.970-05:00",
+          "startTime": "2025-03-04T18:08:20.999-05:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.787579",
+              "semanticType": "Unknown",
+              "placeID": "ChIJj5PlUliGs4kRkctmFM6bQsE",
+              "placeLocation": "geo:38.035037,-78.517565"
+            },
+            "probability": "0.395559"
+          }
+        },
+        {
+          "endTime": "2025-03-04T20:42:23.705-05:00",
+          "startTime": "2025-03-04T18:41:41.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.915173",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.932082"
+          }
+        },
+        {
+          "endTime": "2025-03-05T18:43:44.529-05:00",
+          "startTime": "2025-03-05T09:33:34.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.917996",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.941055"
+          }
+        },
+        {
+          "endTime": "2025-03-06T17:16:39.695-05:00",
+          "startTime": "2025-03-06T10:33:44.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.913606",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.852589"
+          }
+        },
+        {
+          "endTime": "2025-03-06T20:06:48.102-05:00",
+          "startTime": "2025-03-06T19:12:27.998-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.425581",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.965151"
+          }
+        },
+        {
+          "endTime": "2025-03-06T20:06:48.102-05:00",
+          "startTime": "2025-03-06T19:15:33.080-05:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.633885",
+              "semanticType": "Unknown",
+              "placeID": "ChIJHbPSh1mGs4kRooYiTnOt7nU",
+              "placeLocation": "geo:38.034820,-78.515183"
+            },
+            "probability": "0.965151"
+          }
+        },
+        {
+          "endTime": "2025-03-07T12:18:41.661-05:00",
+          "startTime": "2025-03-07T09:47:17.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.888081",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.907142"
+          }
+        },
+        {
+          "endTime": "2025-03-07T20:04:33.975-05:00",
+          "startTime": "2025-03-07T12:31:29.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.752092",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.721570"
+          }
+        },
+        {
+          "endTime": "2025-03-08T19:13:31.903-05:00",
+          "startTime": "2025-03-08T16:52:01.096-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.576352",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.730559"
+          }
+        },
+        {
+          "endTime": "2025-03-10T20:47:01.558-04:00",
+          "startTime": "2025-03-10T10:54:20.001-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.737432",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.657121"
+          }
+        },
+        {
+          "endTime": "2025-03-11T20:07:31.889-04:00",
+          "startTime": "2025-03-11T09:49:49.000-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.711998",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.563137"
+          }
+        },
+        {
+          "endTime": "2025-03-12T17:40:19.213-04:00",
+          "startTime": "2025-03-12T10:10:09.000-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.904304",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.950913"
+          }
+        },
+        {
+          "endTime": "2025-03-12T18:26:22.403-04:00",
+          "startTime": "2025-03-12T17:40:19.213-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.618332",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.619605"
+          }
+        },
+        {
+          "endTime": "2025-03-12T18:26:22.403-04:00",
+          "startTime": "2025-03-12T17:41:24.474-04:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.557052",
+              "semanticType": "Unknown",
+              "placeID": "ChIJpyGb7luGs4kRIMwkg1whbHk",
+              "placeLocation": "geo:38.032882,-78.513558"
+            },
+            "probability": "0.619605"
+          }
+        },
+        {
+          "endTime": "2025-03-13T16:46:27.799-04:00",
+          "startTime": "2025-03-13T09:43:08.999-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.889832",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.888174"
+          }
+        },
+        {
+          "endTime": "2025-03-14T13:58:34.249-04:00",
+          "startTime": "2025-03-14T10:57:07.000-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.906057",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.858921"
+          }
+        },
+        {
+          "endTime": "2025-03-14T20:23:28.160-04:00",
+          "startTime": "2025-03-14T15:11:10.000-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.898447",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.939964"
+          }
+        },
+        {
+          "endTime": "2025-03-15T19:23:31.481-04:00",
+          "startTime": "2025-03-15T16:56:21.095-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.375563",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.958170"
+          }
+        },
+        {
+          "endTime": "2025-03-17T15:27:40.085-04:00",
+          "startTime": "2025-03-17T10:16:33.999-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.907895",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.944506"
+          }
+        },
+        {
+          "endTime": "2025-03-18T13:47:04.000-04:00",
+          "startTime": "2025-03-18T11:09:22.000-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.832764",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.953122"
+          }
+        },
+        {
+          "endTime": "2025-03-18T20:15:07.100-04:00",
+          "startTime": "2025-03-18T13:57:59.362-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.919425",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.900199"
+          }
+        },
+        {
+          "endTime": "2025-03-19T14:09:19.913-04:00",
+          "startTime": "2025-03-19T10:15:46.000-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.900084",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.863280"
+          }
+        },
+        {
+          "endTime": "2025-03-19T18:06:48.808-04:00",
+          "startTime": "2025-03-19T14:54:07.999-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.903783",
+              "semanticType": "Work",
+              "placeID": "ChIJB1s6kd6Hs4kRJhuNmO73ZLk",
+              "placeLocation": "geo:38.031619,-78.510846"
+            },
+            "probability": "0.942392"
+          }
+        },
+        {
+          "endTime": "2025-03-19T18:23:00.423-04:00",
+          "startTime": "2025-03-19T18:08:55.999-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.657829",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ3cRJt0iGs4kRRliLzMIIUUA",
+              "placeLocation": "geo:38.033553,-78.507977"
+            },
+            "probability": "0.737340"
+          }
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "center_location": "geo:38.066354625,-78.49079950000001",
+      "visit_count": 8,
+      "place_details": {
+        "formatted_address": "3171 District Ave, Charlottesville, VA 22901, USA",
+        "geometry": {
+          "location": {
+            "lat": 38.06838539999999,
+            "lng": -78.48856940000002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.06988558029149,
+              "lng": -78.4870279697085
+            },
+            "southwest": {
+              "lat": 38.06718761970849,
+              "lng": -78.48972593029151
+            }
+          }
+        },
+        "name": "Costco Gas Station(grocery)",
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1930"
+              },
+              "open": {
+                "day": 0,
+                "time": "0600"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "2200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0600"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0600"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0600"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0600"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0600"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "2030"
+              },
+              "open": {
+                "day": 6,
+                "time": "0600"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+            "Tuesday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+            "Wednesday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+            "Thursday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+            "Friday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+            "Saturday: 6:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+            "Sunday: 6:00\u202fAM\u2009\u2013\u20097:30\u202fPM"
+          ]
+        },
+        "photos": [
+          {
+            "height": 2560,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100495484366437569352\">B. D.</a>"
+            ],
+            "photo_reference": "AUy1YQ3zpwiSqXF3CAkHqodpDLQhHDETsqY9f_BZJruMIzClUs_1O3k5SavPfgIIeGHuxU7ePfFYcYiSkFQHg-aMkrX9J6wUlETpgCWcG5aDAsXD110o2mqB_AMiy7_8c0PO8iBxVaC7TEJPpVVebqbFwsZIAinSU1GEQ6j-Qgghf1EmqMu4xP72qh-tsmdmMKfvQzQa5GnJRoo2eaLsW-JoLYJei6jjREKImWJDdtbQPFGUy7lxLYzMZT-u8eSOPeeR1h2wuD01cBeRLD9pjycoMR7vg0NEtqJhd5MbLPqT2kgrPK0NApTj9jUgB3U82TPNQioCDerKdJi9C3_yumJMBFHu9xfF0YQMR4anjqT8wNg8kqBolrU1reD8vkND2IEq-PUDQZ7Y6rMd_XC3KMwCNsMSD3JKR9bb5ExVCkpMWegG-lRUu-jNzu21J8922ES4L2qXFjksSUJJeB9TK1j945T6gmKDo3BnOjSwlxWqBPcEjmgLU_QqfBgU7qe0kxUfww3nJgAkObjixkkF7LscK9U1vUfweyi61tYpvNESZNyjoYMkBxgzs1Wve7-uLqvtK-w8L72Vp6G2yairNR7QW_KPnhRF3Q5yaCe8jOtWb08",
+            "width": 1920
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108221414688622246428\">John Moore</a>"
+            ],
+            "photo_reference": "AUy1YQ1GaVH4CDJK6u9OD6OO6q4QFv2ZvL6lOs-PiYADjgBXe8aOrpcRmeoFwHvrmR9bnd3F6UJgEYf6-YIKx42dstLSIBTrBef9Pnd3UblPdzZUBM_ay5JfQs1BdXlHji6HLAGFq_ga6oaQlzbYO1AkelbfBQpmPiutoaUp68pXDX3SBrQFxqSUO6PG_XqQf1P6yYc3NItOuV8Tfj2z0vtzzfFskPObMFnUbtWN0xp6mZmrDGLhKWff9fv9ldiftK4wPOr8aNDDc6R5-WqCq89eKdkwj89J2MTOc_jWlcg_Ns13gJW0zHHhgOZVFLvqrvmqia8QSiWhe3vEjWaI_BiQEVCbI4Gs6k7GMqZPLSl8n3LFT66aAfjeC1TAF7l7BFx3n-jdG4gP0GVcTxNB1IGTKbytH_iD58Fk2XJplfzocPJPd10ZLkjK6RSG8N-Ya8hF1-hAyBmOt26Tqf10ERjm_CiX1LE85Vsi0ttK0-hABVzVYugKQW9_tu2ILLGhF8Zac7xz8_1F0RstCvm2lstGRvd6FIyzOXqFTzzU2tC0P9Dl9sozMBx_-BHJF-mkseG6MwtBcR0bTsFUTDIYKRSHxOBVb89LLL-VLU2UOUD0WjQ",
+            "width": 4032
+          },
+          {
+            "height": 1960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112947261448195359668\">G. H. C.</a>"
+            ],
+            "photo_reference": "AUy1YQ2vc69p1bxHnih5wGfxuvWf3pc3JoWwx1e77NJMh6f4dmVmId1rMM5IkCVEkvTlubO5d_u1P5OkUL__KQ6fA2e16RkYP4S16h4zMWBpCz5EHpZ3cywx_fMatUc-w6FC5bL_YsCdxJUaglOLkw8o0KNdpuVCpjIjm0yuRBO1ns_HAAvLRW6bUAEChUAdg5tAsLboKGzyCixDI4y3ec8Qkv5-FOWNnhErz2p8OD10bPIdvyAECU4XFNy8LvkB20hmUMui9fIS8ZLMClzuiU3VZ6cXd1P77-F5CfebxsshioNmBDESoJgRs69BI4vBCvCia9FGC7vfA5HreYvdLejZo_UbRq7WCikdUwHgsMLqaDbwc5i_jlup6wKRFoEzBiBkRqxP2kWVSMrd5h9LJJSVewMPNTS8O-v29HDPcdX8VA7iyE88PoRS_akPZuLLP_YHkXMCHcA8h0h0L5GgIlT4fRz_PvkzvhlDVjOpgQljgQHLZNrDTaxQsWrNeMHCZ4MK1fGHzRvdHqyMQNj9OAR0Fjhzub4D04_gvp_3R9ENJ9QBhNRxhf93YkPFAfYuKEO06paX5XgFJjruidFqV9hqB8UH4M9Fc81WTScE9vOm-Rg",
+            "width": 4032
+          },
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107445678971523936596\">Anne Kibler</a>"
+            ],
+            "photo_reference": "AUy1YQ26rpwDttzUxQFZtzwc-sVsBOEw_KD80CDEkODPGdpQi3dU7pQvXlWkFUsF-4maXRiWMAtASlwi2fzv5a2DjPcWVr5kTeTcd8aPO_R6QtngpCnlbQvzhm1fM1CfSIsTzLfS3JdbIlEQcsFLYzYRnlfAQnXoskxPMzYA3rbdgGHd1y6izbLLWGqdHYCCORZb190DKieIBIr8FLO3dhBvAfgp3Yij4ebCFt3AspsDS3w3_ce5vPsgF-hhrwsFAihK5BPPG3ECFxvzjDv9yn_8I-1-G3b2mxNyIVK_OT5RnxfTMAfN5Ecl1JVaj-FNU5kOOv3u9Wobvy-C9zG3bp1ZcWrproB8J3W-Wr4amfqBRBqE3o6xxYqGjHvWUVNULYaE6nFnIevJxb8bmX75qvZ-x3aybMdgyTfGidzbozsnOS_N4MaBM3GQl57NcOhkkje5GRfNXdft5AXvZPE9JBEje3WsRhD2idbEEj9WnZZSS7ie8LrfXEQ3_eA653zfcoKZJAGDSJ7d2nv0l7de9DXFoN8EeDylEQJCq3rLGIa1wgghQRZEyMbfUEFMisxdTvXqdq3S8cpiCDln_Z6hmxt7Az88OK2shhchOlg1SnEm6jMBqYU-",
+            "width": 1920
+          },
+          {
+            "height": 1960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112947261448195359668\">G. H. C.</a>"
+            ],
+            "photo_reference": "AUy1YQ3ynaDIFIImIMfgf4Yse9GU4YsqfmBGOSxtWv2CmnmPAHQMxJnk4knhJvQVFjP05dUeUrFUtwvO34NtHOlDSvVC3-ePF0DKTPl2MrZAwlFV10vPcNGQtdDUqjOvJFqrvuDxZ-IS6iX4ZIDccmQwl5FkfvUVpTP30emoR4UtfqcmUO1RJQPdTNX74ga4ouKMbXSdmP0d1Aet-i7Mwz82pc0BhKdduA1qlbJr5fC8bO5GN_mCb81VXY9PR2SSCQAO68buQpfwKsmfM8sMsMwgZ4eYSS153O6XXD66Zhqss89_H5F6KR1UhCWxTwqKRVlDMymz44RnFqUZz23ziEIxY3gxKxBNBIjQR8wLxKwc2VPJvJptMU04qiZ0aRHwGmbeMH_ukY3M4lIlPEYzmQPc2druaNU-P_A2oKB8TEddmqJ-n4tCEu1rE-gmJC0k6zvsjVc8yLvuYDwmPyXckqLu4EnlVHuuj8voZU5UUXrqICOwAm6DCO4XK2ITsix19Iv-wqaoDtI_GJ61lq5_Dqf7pyJNIZQIuVsQzHPDsykiCj862BrTGOarv9h61D3QMbd0cxnzktao6950adrr_3epdao_f9cu1YtVh43BE8UkaIk",
+            "width": 4032
+          },
+          {
+            "height": 1960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112947261448195359668\">G. H. C.</a>"
+            ],
+            "photo_reference": "AUy1YQ1TeaR0j293O_iJZyXhUTFlSfR6iVw9pSIZYSbVliL161il2-gUOpWIlf13LYqZYdlOcXpw1ZdaTiuyWIk98FyUpKuXAAsTZXH2_xWkra-qK1Bl011dCKUx2DrZYTZbMQDBx3qpYlcZXBEbOSwuKfsh8ngUvTTCVKDVpnXF-rkzz3EyYYnZzyfs3mn3eHL9Ckvqn8--1PViLy7MTr7gwAyKeHYd_0tc7vSH7UWHu7yfpHOKx5Wh90ijMqoCfLkvy4yET4KTkTCOzXNoGZdnHTs0lKVL5nx5usVIbeR-IEcJqpbFQbC89BvXWRRvfoE6x0GiOHI38neMDYEbMshS1m4CXm05xGaAF5S69lz4Izh4hCHYL1e_V3BzApGeVGH6D2xjxgXnkjFhI1QVHX9gAJVI0FVDQZl9Gkcn6OeXm2y1yU6rxLgdkuX1Np6iu858Itv9E41FoNkn81QpX6kiQK70beF4NtrHE8z7yYLLd7VcZ2TSWZWAfnW_UBrv1WYQMcNe8hbybB1qZ1uEkbX58p46BMqcXbQpMZ9ry2adAopXFNCUgnHKhSOCXsoJzQnXsbMTwlJKpXfnLvsWTw3wnPGCKNezCXvcOeqP9JJ7nabSlkjC",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJhynn--iHs4kRW08elT-yrkg",
+        "rating": 4.7,
+        "types": [
+          "gas_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 271
+      },
+      "visits": [
+        {
+          "endTime": "2025-02-12T17:21:03.999-05:00",
+          "startTime": "2025-02-12T17:15:57.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.644436",
+              "semanticType": "Unknown",
+              "placeID": "ChIJhynn--iHs4kRW08elT-yrkg",
+              "placeLocation": "geo:38.068385,-78.488569"
+            },
+            "probability": "0.695296"
+          }
+        },
+        {
+          "endTime": "2025-02-14T21:48:51.620-05:00",
+          "startTime": "2025-02-14T18:51:24.101-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.914321",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ1cS0HsKHs4kRHcXgPgU1f_g",
+              "placeLocation": "geo:38.065186,-78.492411"
+            },
+            "probability": "0.886093"
+          }
+        },
+        {
+          "endTime": "2025-02-14T20:21:11.962-05:00",
+          "startTime": "2025-02-14T18:51:24.101-05:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.441422",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ_aRn5MGHs4kRuuNCKBnXk-w",
+              "placeLocation": "geo:38.064877,-78.492874"
+            },
+            "probability": "0.886093"
+          }
+        },
+        {
+          "endTime": "2025-02-23T14:00:13.091-05:00",
+          "startTime": "2025-02-23T13:57:02.092-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.112124",
+              "semanticType": "Unknown",
+              "placeID": "ChIJB5vNC-iHs4kRPmHhCBMRwy4",
+              "placeLocation": "geo:38.066383,-78.486747"
+            },
+            "probability": "0.500353"
+          }
+        },
+        {
+          "endTime": "2025-02-23T14:51:13.999-05:00",
+          "startTime": "2025-02-23T14:00:13.091-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.420659",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ02ss_OiHs4kRGskTqGAbMdI",
+              "placeLocation": "geo:38.069104,-78.490289"
+            },
+            "probability": "0.933548"
+          }
+        },
+        {
+          "endTime": "2025-03-08T09:46:43.135-05:00",
+          "startTime": "2025-03-08T09:25:10.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.825205",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ02ss_OiHs4kRGskTqGAbMdI",
+              "placeLocation": "geo:38.069104,-78.490289"
+            },
+            "probability": "0.948919"
+          }
+        },
+        {
+          "endTime": "2025-03-08T10:22:32.105-05:00",
+          "startTime": "2025-03-08T09:56:34.101-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.186386",
+              "semanticType": "Unknown",
+              "placeID": "ChIJr7c4zqmHs4kRRLVHKzvHnzs",
+              "placeLocation": "geo:38.058694,-78.494928"
+            },
+            "probability": "0.930228"
+          }
+        },
+        {
+          "endTime": "2025-03-16T12:46:32.092-04:00",
+          "startTime": "2025-03-16T12:17:16.093-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.571590",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ02ss_OiHs4kRGskTqGAbMdI",
+              "placeLocation": "geo:38.069104,-78.490289"
+            },
+            "probability": "0.958231"
+          }
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "center_location": "geo:38.036050800000005,-78.49120395",
+      "visit_count": 20,
+      "place_details": {
+        "formatted_address": "945 Preston Ave, Charlottesville, VA 22903, USA",
+        "geometry": {
+          "location": {
+            "lat": 38.0391944,
+            "lng": -78.4907806
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.0403630302915,
+              "lng": -78.4893997197085
+            },
+            "southwest": {
+              "lat": 38.0376650697085,
+              "lng": -78.49209768029151
+            }
+          }
+        },
+        "name": "Shenandoah Joe Coffee Roasters(eating)",
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1500"
+              },
+              "open": {
+                "day": 0,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1900"
+              },
+              "open": {
+                "day": 1,
+                "time": "0630"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900"
+              },
+              "open": {
+                "day": 2,
+                "time": "0630"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1900"
+              },
+              "open": {
+                "day": 3,
+                "time": "0630"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900"
+              },
+              "open": {
+                "day": 4,
+                "time": "0630"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1900"
+              },
+              "open": {
+                "day": 5,
+                "time": "0630"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1900"
+              },
+              "open": {
+                "day": 6,
+                "time": "0730"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 6:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+            "Tuesday: 6:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+            "Wednesday: 6:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+            "Thursday: 6:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+            "Friday: 6:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+            "Saturday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+            "Sunday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM"
+          ]
+        },
+        "photos": [
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108982797415874599396\">Quin Carter</a>"
+            ],
+            "photo_reference": "AUy1YQ1Cv-FoacnUAAbztZ3lSjMfl2jfYTeCiYsCRZ75_Bv_1_hzrLjNVZV__uO6T403AZ-buyx4ZqEXAKdjczCoUdvwlCamlcC0dN0OQoJl-o44_8HnczW6RrF1facDhxSthc5vq7y1bB-SFcAB5KcHhhoyP2lIm0jjkA1ro5EkPuca60vg3_JOqrPFN4hzc-n1a5MKI7CVEDSknpfYk2SY-rGP88_muYlIOBsefYgpl1UkwzEMQIGs6NYmcnnlMvOsQZv9XQNAtwZkDciwqFMa4RUbdYa0xjMGIeC2cIYw687tbMivUJRkNXsGlaO8GeX7M5ltdMwi6Trjot-hXESzde1-zEUqrWuOdppFpRXz0SFSf-G5sghIU3Hp1mm8V6t50sB6mKsOxeQPKJFvXTEb4VsiZdKs5W5cz5RgZ6YabpP3nfJ4eX_BZDuPmFXmRp0ZamNsUHA_5V03TFFSFnM9lpF2eS4kMTj7k9h36Z_XKpLU4MWL7wj1x-wmaHQ9vM6q98dvjXKcIQTlpQCQMN1YJu99ELRgF4BQmBiRG91nkziy2a_HAtA0rKmxL4zTCNqtLtWprOhfmVkfTTyZ0cLniSWtQ8EY_8qg_rOs73nSCYE",
+            "width": 4080
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115165131629585729804\">caimiao liu</a>"
+            ],
+            "photo_reference": "AUy1YQ3eP9XhnvrTmKiSxsn2XO8pg7rtUIMtFtH080V9WhHWLlPVpvaawXdf4QM6vdgbMHE3dA3m082Ky-TkTYrJsS12FQJWwmw7AFJIZ-ISz3uTwKs_c01z7WGmamCEyfr0A3KkTdat_N54XHL6IJhiQ16kY_UlbHU4SxBikoi3iXnH9G41WsT-8ooyjHqoFbKjrydXj8GKc33dIRo0jHJ6NdZ_QHOzUtnkac9NV5wWwlpM2f-Fgy_RdUc5dYnTwCnJAGakkUGATgfS-EyTecd4uBV-4-fssdffJRZ6Vvve7zKc9ZYrjSpOczgSKMmKHPKdYsdZqw1ddzyiX5_sCt-1oJX91fQ2onCC-AwK9QaD9HRTdxUTlmRKPhCZhwKxqJKTjQh-q_zgjuAhyxvZNEw1cX4JQtc9bywpHGhWTpujblt4ifiZOwOg_WV-ainte3v3NeL6rtGdfDeoFT218GsTG02KxHbQnGdH790iNcKpwcSbkz-8Nz-FE3u6kMP4hs985Jbjl7TnGZEJJs738dRqJ_HALMaVM35whY5g3l6PeEyx-H7LHoa8r25jr74iazaBZX81zl0R-4TcN4RMxwMXqp6ZA9SUElc1Q71FK8d0aV0",
+            "width": 4032
+          },
+          {
+            "height": 2252,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109949341568230029428\">K D</a>"
+            ],
+            "photo_reference": "AUy1YQ0HQe0qn2M44763Jfohm3txubYC4wZS3S_ACD7B0P2yZChuk2R6-_SdifNWJrOuNbwQ2t_2gTQ7Kh6lgH7fUgns0KUslVK2w7jn2f5fMpJn06RzwWQynSTIEqqY9B76LbeduB2gCf3pgTBLfBUtUmOFFjq1AKVdjIrUm1D4-aRSKIsd0a17GZZLnY9s5r-rSWi4imck8cyM6GqxVKCmRjSxxfeN8i1XUGuZTozYL1iDnA041bU10VGxHJEXhlrPo4Kv8dT_GJU-gmmzG_CYUcXCgV1RQoki2SQGOgmBeSDGTzYbaWJVwdmqzPn2WpEMX1mWcgwWpHN2v6H-3LRo-PKbruc0sYt_uMz5VruHFyMMMo2aoCmYkqHWnb-2OcS7de5YtQmZEOKWMMOTWfEkpCsAx3oFcERNxl0BXrtGLItrHUjyl3_pgoDw3KV13Tfj-AnT48da8DL9V0V1Mfhf45QesV2BqcKgO_qmqdAZ1LUzfje5LV3I30tE7Vi1-ffp_SQy7FtQ27HY5w-6NVlz2lJFbpuWAWc7gYtOnJE9yLS_O9Yk6GiYhm2GQGxV1U7J8F0H9S2D1dCe9DlwBGUPfZxXE_244w95kO9g3-NHfX_IUp2P",
+            "width": 3001
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103681028076805367616\">Israt Jahan Duti</a>"
+            ],
+            "photo_reference": "AUy1YQ3YyXGFB0VxP4HT6LfmuRLMIMSAVi8l6sf9G12POOa8TMIxayWSEzvj8evLTgXpJLmXp5kHHq1g1MxmQ1PoQkkkmXP5dHIDMCFazBhflyiAmcRz_7ncw42XtU8hTayQ-abKivaO-04fAko0LzuUnSrNaEz-R4nkcLiBc6S7p3Vg5KGaJ7dOGGvwieq6sroH4AEEYMwFBcf1V3RY_2MZbWJobpbrDLS1h8dcNcrV64qo88umxa9ZjQ3e0UDxzwPyo19BVBpgnfZvTTY9xx57eFUo1rG4H4n0xf6U0PB7W3r3jvf9WlonIYiEgTLKQ2hz00iqtJyTj1MNBmUbe6W1GUtWnoChtWfZzc0Ry9vvrhDn39CBrY37CPR7n-rGGBMtoK6MNgynImEXjurCod5pgJZMelx103xGj65iMholqZBhPvzf-ugTsndl5NXowoo95Pp7qdK8XPMNL1ylraFbx0iAzUkggG3T_3j51-DAQsrIlt4CVC6LoNWU5G0v9ixfVTmsyBFcxZJiU7U0_YlE9X1ESld8ALvx4u-WoE29_vglrnYGYqXL893aI15uCNx-Yuq7WEXb7orCpkfMujNnWu_Ni7_VIEUqhutl2MEeZgnshCNR",
+            "width": 4032
+          },
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117502500666591140652\">Ahmad Dbouk</a>"
+            ],
+            "photo_reference": "AUy1YQ1QwdBjH-_S0_qwS8GvQSPcb4dcQ8za_RLcAgIdWlKVIjdCoDCPQPHKfShKCJcscldF5GrwJtrgqiEXII2-U3wHin-EYv2WRISXpf1tTgbJfBbXHe5QDgxHl13nfk9by0qWMqVLKdwnWeIzmlZKC-8KMMpyoIpQFv2VMf1XEKFinzP0Nbw4RRa24guXHZeoSNjFo8oNeqFfL2yjQyYSSeFItw2BvJDGawKBi5oV3WMjLgdItDiRaKawhTLcCiHcGemvxVMvgfxKAsXzZPiwpn_TE2j7IGSdrhYgqkPYdMlvVkMxTLV8Wve02bh27R1YMijczBuS16qX5eGiKQ0dusfvDPs-D_qpazMUqalUZzrFb_6VbuA3xr5HS9YNyx9u9fiKJOXlh1S-0CXbeJH5TLswveZ_qI_UXpNWZ-VPLZ4Z6ByDPUU6ZmLhFyibucV4vsfsrmbq34QcO40xoBeyqXKF4-zsKIllDQQvVda1d4pG4A6SFL4ERizrnV8opS0gT4dvORpTc8xuVqF-U7YCaYrc634v7xzrGwcaOsDOCpU2VgwMnnPnIUdVpMGuM91h9U3U--ZfikY2QGYNNGmpSfh_Q93bbpuBvpFvlZuM7Ms",
+            "width": 4080
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117107319913035926643\">Jackie Kosmacki</a>"
+            ],
+            "photo_reference": "AUy1YQ3bQSNhpVXdMicmSPA6VYIO0iMhRQnWDnir_GZ7ONaLMdh7qeXPVm8Rug--S1jFkVRdTRq0MC7o8-khtzLTl21BWktzfc5studLcwzsbqP3lL4DH7cXEoi4HYhZAueTety3LCxpNCEqeDEI1Il6_0Laz8rcZKPAMW2xb-fnW-BjmzCbI8FB4JNmN2XOkyT4tCl96LCC8_rW-v_xhKpIIoermpMFbgIainGut0oYMjMoWvqnuj_uLi8SFOfoFGhEztl79bfAhjFL0OM5YJ9WJlD-haXvswtjFBeZ_0NSMCSDo0TcuhcBPW-k59t-8B1Nnh9VuSAtpkNnJkwJCwWMNa4Mce120BMnaroDFJOXGPARpU0Kv_cELYdl1xdjLn5lL4ptO3zZGPrAHcn80vG-bgIAdd7db2ZuQZQCku_eZ0JjLV3CbHLuMrxl_XdUssOuvoGRGBYXLwI5vdh6hCbNzoVmxkuA26g5BbHkvSgAEKcBQ3WU79Cdf3fBiSNR-0oVJS8W_kIJWB6VyUzkA0FzZ9aKx5M4VexdHccG4Agg9J5j01lu3QgO-mvGGfsYbOZqYLasiPx37bVp0HY_rTiiuOj6Vl-M2yozc0OhQ5IW9es",
+            "width": 4032
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103681028076805367616\">Israt Jahan Duti</a>"
+            ],
+            "photo_reference": "AUy1YQ0kyw5_0nSYatcA2YIGC0qahEREZQdbP5xDiWTjfu9E63Qh-p4QftEc4PVRIXdk313hfpNDz0GbvGgsGpj2IzcZOFR6GLhz4sdURCiLrZ6_pcWFJUKRTSlR7lPOuqcxxDkhj3vLZkWp39z6hbnhnQuU-t6xj2Gb2KlvIYghGd2AgUQ57P1N-fVNfZx3v66vyEK_pxDdrd2BZ4oX6LCIpUQIee74Jm0iO-07mCZS9x3dcYPnKsfs4v-FXxxt5WE0Ms_t_z66T0os_sOHAFGYGo8Gt-KWfJz7hyi4KQ6eNw_ifX8EK2CQrODc5R9eZdPaGnW5z90nMBqS1eerciBPUwTP0k3dvZSvcvX21p5VA9xrOZcqVPmTphS6uPMELtFATEC4nsUF29n3T5g6SEGSKBnimGSLqoxUwbMGHv04ZcZxBLseZFtqioBjCDWWzET514TRIFiHzLQDDQBroLlAAMcnKzb-wfrGPZsU2_Yz0-VhwQVam5VUu1nZIbdDuaNK2P9y5Em4sp7rHCK7THicW-o0t168qt6dU6Gj4iGytnan5SZAwFvdoQ3dSrvHCMpkIOQx5Ta5G-mhkmAIV6Q_QVqg94obtLPpayV_DCTOX2w",
+            "width": 3024
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103950027427925590257\">Wendy Mitchem</a>"
+            ],
+            "photo_reference": "AUy1YQ2ZkWrlLi8kO145a7aIed-KjTTTa_erntL-ORN4SOe0z1RG7sZgwGjhyviJfuX-D_96mEFZDEYYC5Gn19vBFgMt-qmQQjhOTyyF9QizyxYekjP2OMhKx6U8Y9sAf308I4AFiHFGm4jRsQfv8F0OrPRRAOjFt2hB8bpSlTtIPw027MyokFVYT2h9VO1m6n4v6UBoTAw5CnIlBt4S9AsyGpuMbc9yXgHRkptPGE5mD7LIKm7h601CCfAgz_7ZvsrZJ67WEjjfPzZPrWo7ycvzXKU625vgGQTqaV4IsJC1CkVGdarjvPrHGkzBrsDVf9i6meVc4-HMLen3aQpOZtVqG9MnKwdMGXf5E-ROY0goGJvgQcHeXJXxY7G7IKB7lfMWRKOXcI5TGKSgL3plh4Y-4xdtGV-LmaQBVW3DvBEPkUgkvPQ3Jho8X5Zr_mDmRo6MUQkz9NQxXbmRhQI_aX0WIAvjhcfc__3P-ytUNUs4H0tekbC8c9ALk83q5enDUjh037X2dK0RZUcXbyS7pbDh81W1S1xMflpld4K6NwvMiQVMqrPlpSq3EznHouXEeJm_ZgdtpXOVRXzK4jL5YKDZ-etxgl4jyswbOWe89P4jEfdxDYVF",
+            "width": 3024
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112233981998148687030\">Jasmine Rain</a>"
+            ],
+            "photo_reference": "AUy1YQ0Kl7kXKyvXQFfZWERbNDyp0W18tGTPf57ugFSLOQbihgruJzAHdYApYdKlrcmyhWHF2OD0WiMToqhW9rMcmThaMJr2qCf1ROxSQkoQIyQZaw_pOQjWlh1d5HLIYC8QGeOvPgl4jASEc20xim4diiXWB9kB7HhZk-iRs4b2RWJd4RxcM98V-DBF01oxmEzSVVyiHxkhBTve6nLIrIRMtTyMRiUwgJBsmUYYKfb6FSqj3iGBtIdoZLJmi9iTk66X4bWOai8x4KWy_cjbAqsFVOGBSt-HLMWJux7DWiXRi1WhJWshs5u7S7AJk2RkxjN9JEsTEb2CEPH4j7L37U8Xsfa7eLZkcIEK7CnBdVDR3yLrNnV4w7lO5OKwX_y2tSZ3dOfGPwTWHo1YoqI06MYmiXYmVWg6YyksE8X07ndxIs3c7w4KzpdmCurTeuB6Tvtxpetqe8xyzwN7oUMjdmS-oBClHStkruL43ET8Wjmb3SZFywBqvxq-SAqNVijOx3bjMUCnd6I9m2Kx_vAV4JdF9D1185Bepht-Ep6zUwfSndENeHncPgcOwHNUTnQPH0GcB53SpV3Bd1yoomOAXrI-ai0SRaTV6cXlQtANISOSMaM",
+            "width": 4032
+          },
+          {
+            "height": 2322,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114732218287270055029\">Michael Markuson (The Nerd Picker)</a>"
+            ],
+            "photo_reference": "AUy1YQ3xpf593Og8WVmawlqWfQKYikI82iwGLTod7Kr6d8J480t2B0IK__6xNW8JkTwv-8yktXLCDErN3v9e_Mgu3TvA4i2EpLAg28SNuj0I-ebxtTaZ_yqaDuA6aLgg85aEnFVPL3va-Ml9Ynv14W4N9EH1zFPEr6ObmAOg73u1JzTEUe0KVfZ9Z6zMBvk2e3-hGz7LHimlfq62GfcQdvr7T4cR8tmezfdKEPbjhuYBdSwOvYAbo4tNA4jV7YdUpABjVlZ-dZbu165P16wQLBt9UYlADFyXMptsxP478AYUxYEky6Ii-ct4AiEE4owUGDG_2U1lN0A5TQqGfd5SbbrUbbxLeSjfKSjm-LJ_fgJNvtEBigMidaI1AAU6Mr5WOjypDOHglwDjbm1aL979hcogheg9MDSOdVEGTVTKwgHUKq_8Z8ozP6lt5iK7atCa3M75i5BZSbP9CHD7gT-whvAhrqIAr_0eBOv7xA4pZviu-2vjwteuPZ--LBU5zcvGd7ddFRjcDXzrBKDj1X_HI8e_NJcxg_OBwkUKTmtO3_ldfKRFTWRCyYSmF3DSAolGvU7ARCQtGZC_yXoxlu7ZAiZToZAhZ9v7X0jt05P8ALF1NYY",
+            "width": 4128
+          }
+        ],
+        "place_id": "ChIJlQFGaDGGs4kRiAUn8ti51Pg",
+        "rating": 4.6,
+        "types": [
+          "cafe",
+          "food",
+          "point_of_interest",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 570
+      },
+      "visits": [
+        {
+          "endTime": "2025-02-13T18:39:23.999-05:00",
+          "startTime": "2025-02-13T18:36:24.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.083761",
+              "semanticType": "Unknown",
+              "placeID": "ChIJlQFGaDGGs4kRiAUn8ti51Pg",
+              "placeLocation": "geo:38.039194,-78.490781"
+            },
+            "probability": "0.678129"
+          }
+        },
+        {
+          "endTime": "2025-02-13T19:33:22.614-05:00",
+          "startTime": "2025-02-13T18:39:23.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.467267",
+              "semanticType": "Unknown",
+              "placeID": "ChIJvY7ibDGGs4kRMPfjKSkIZKA",
+              "placeLocation": "geo:38.038909,-78.489868"
+            },
+            "probability": "0.992636"
+          }
+        },
+        {
+          "endTime": "2025-02-13T20:36:58.096-05:00",
+          "startTime": "2025-02-13T20:22:36.094-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.222102",
+              "semanticType": "Unknown",
+              "placeID": "ChIJN2_fpzmGs4kR42UkMikN2PE",
+              "placeLocation": "geo:38.032188,-78.494383"
+            },
+            "probability": "0.897393"
+          }
+        },
+        {
+          "endTime": "2025-02-20T12:38:42.999-05:00",
+          "startTime": "2025-02-20T12:34:21.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.036036",
+              "semanticType": "Unknown",
+              "placeID": "ChIJG1QGNDGGs4kRyFtleiiUwyg",
+              "placeLocation": "geo:38.038113,-78.491920"
+            },
+            "probability": "0.394407"
+          }
+        },
+        {
+          "endTime": "2025-02-20T12:49:03.717-05:00",
+          "startTime": "2025-02-20T12:38:42.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.413462",
+              "semanticType": "Unknown",
+              "placeID": "ChIJBc6fDquHs4kR5JknQQb_V_o",
+              "placeLocation": "geo:38.038508,-78.489627"
+            },
+            "probability": "0.978381"
+          }
+        },
+        {
+          "endTime": "2025-02-20T12:57:24.981-05:00",
+          "startTime": "2025-02-20T12:49:03.717-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.517185",
+              "semanticType": "Unknown",
+              "placeID": "ChIJvY7ibDGGs4kRMPfjKSkIZKA",
+              "placeLocation": "geo:38.038909,-78.489868"
+            },
+            "probability": "0.439403"
+          }
+        },
+        {
+          "endTime": "2025-02-23T15:07:55.999-05:00",
+          "startTime": "2025-02-23T15:01:16.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.408210",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ5yOHPSWGs4kRdSj59Srjr60",
+              "placeLocation": "geo:38.032283,-78.485405"
+            },
+            "probability": "0.962828"
+          }
+        },
+        {
+          "endTime": "2025-02-24T18:07:30.000-05:00",
+          "startTime": "2025-02-24T18:00:37.001-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.210019",
+              "semanticType": "Unknown",
+              "placeID": "ChIJN2_fpzmGs4kR42UkMikN2PE",
+              "placeLocation": "geo:38.032188,-78.494383"
+            },
+            "probability": "0.870586"
+          }
+        },
+        {
+          "endTime": "2025-02-25T12:22:01.000-05:00",
+          "startTime": "2025-02-25T12:17:05.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.354050",
+              "semanticType": "Unknown",
+              "placeID": "ChIJD2LftRiHs4kRkt32IZrxrHU",
+              "placeLocation": "geo:38.037998,-78.491035"
+            },
+            "probability": "0.684495"
+          }
+        },
+        {
+          "endTime": "2025-02-26T13:00:56.706-05:00",
+          "startTime": "2025-02-26T12:35:46.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.179828",
+              "semanticType": "Unknown",
+              "placeID": "ChIJl_hGnDmGs4kR16BphTF3wBI",
+              "placeLocation": "geo:38.032117,-78.493750"
+            },
+            "probability": "0.883827"
+          }
+        },
+        {
+          "endTime": "2025-02-27T13:34:14.039-05:00",
+          "startTime": "2025-02-27T13:10:19.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.373908",
+              "semanticType": "Unknown",
+              "placeID": "ChIJvY7ibDGGs4kRMPfjKSkIZKA",
+              "placeLocation": "geo:38.038909,-78.489868"
+            },
+            "probability": "0.943861"
+          }
+        },
+        {
+          "endTime": "2025-02-28T13:04:44.389-05:00",
+          "startTime": "2025-02-28T12:30:08.000-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.296958",
+              "semanticType": "Unknown",
+              "placeID": "ChIJN2_fpzmGs4kR42UkMikN2PE",
+              "placeLocation": "geo:38.032188,-78.494383"
+            },
+            "probability": "0.940062"
+          }
+        },
+        {
+          "endTime": "2025-03-01T11:14:11.087-05:00",
+          "startTime": "2025-03-01T11:04:40.102-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.481126",
+              "semanticType": "Unknown",
+              "placeID": "ChIJbf5ExT2Gs4kRgxnhl_sfmbo",
+              "placeLocation": "geo:38.026207,-78.490467"
+            },
+            "probability": "0.776312"
+          }
+        },
+        {
+          "endTime": "2025-03-03T12:15:06.999-05:00",
+          "startTime": "2025-03-03T12:11:16.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.085212",
+              "semanticType": "Unknown",
+              "placeID": "ChIJqUucetd3tIkReKvKBUS2mtw",
+              "placeLocation": "geo:38.033222,-78.494152"
+            },
+            "probability": "0.612673"
+          }
+        },
+        {
+          "endTime": "2025-03-04T13:16:36.086-05:00",
+          "startTime": "2025-03-04T12:40:33.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.219121",
+              "semanticType": "Unknown",
+              "placeID": "ChIJvY7ibDGGs4kRMPfjKSkIZKA",
+              "placeLocation": "geo:38.038909,-78.489868"
+            },
+            "probability": "0.934299"
+          }
+        },
+        {
+          "endTime": "2025-03-08T20:16:25.091-05:00",
+          "startTime": "2025-03-08T19:20:46.093-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.457494",
+              "semanticType": "Unknown",
+              "placeID": "ChIJvY7ibDGGs4kRMPfjKSkIZKA",
+              "placeLocation": "geo:38.038909,-78.489868"
+            },
+            "probability": "0.985247"
+          }
+        },
+        {
+          "endTime": "2025-03-13T20:26:58.000-04:00",
+          "startTime": "2025-03-13T19:29:42.095-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.595405",
+              "semanticType": "Unknown",
+              "placeID": "ChIJvY7ibDGGs4kRMPfjKSkIZKA",
+              "placeLocation": "geo:38.038909,-78.489868"
+            },
+            "probability": "0.942354"
+          }
+        },
+        {
+          "endTime": "2025-03-16T13:25:53.998-04:00",
+          "startTime": "2025-03-16T12:57:37.999-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.529829",
+              "semanticType": "Unknown",
+              "placeID": "ChIJazqtyzOGs4kRwTQI-JDRmzg",
+              "placeLocation": "geo:38.041152,-78.489757"
+            },
+            "probability": "0.684881"
+          }
+        },
+        {
+          "endTime": "2025-03-16T13:03:32.000-04:00",
+          "startTime": "2025-03-16T12:57:37.999-04:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.413003",
+              "semanticType": "Unknown",
+              "placeID": "ChIJY58YsjSGs4kRMduf97iWSSs",
+              "placeLocation": "geo:38.040016,-78.490445"
+            },
+            "probability": "0.684881"
+          }
+        },
+        {
+          "endTime": "2025-03-19T14:41:27.547-04:00",
+          "startTime": "2025-03-19T14:20:11.999-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.059583",
+              "semanticType": "Unknown",
+              "placeID": "ChIJN2_fpzmGs4kR42UkMikN2PE",
+              "placeLocation": "geo:38.032188,-78.494383"
+            },
+            "probability": "0.659065"
+          }
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "center_location": "geo:38.40676166666666,-78.71583033333333",
+      "visit_count": 3,
+      "place_details": {
+        "formatted_address": "1822 Resort Dr, Massanutten, VA 22840, USA",
+        "geometry": {
+          "location": {
+            "lat": 38.4067887,
+            "lng": -78.7157774
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.4081751802915,
+              "lng": -78.71468176970849
+            },
+            "southwest": {
+              "lat": 38.4054772197085,
+              "lng": -78.71737973029151
+            }
+          }
+        },
+        "name": "1822 Resort Dr(skiing)",
+        "place_id": "ChIJV_8tUhOLtIkR5UihprqfLSM",
+        "types": [
+          "street_address"
+        ]
+      },
+      "visits": [
+        {
+          "endTime": "2025-02-16T11:11:03.999-05:00",
+          "startTime": "2025-02-16T11:09:36.092-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.517837",
+              "semanticType": "Searched Address",
+              "placeID": "ChIJV_8tUhOLtIkR5UihprqfLSM",
+              "placeLocation": "geo:38.406789,-78.715777"
+            },
+            "probability": "0.909505"
+          }
+        },
+        {
+          "endTime": "2025-02-16T11:22:08.092-05:00",
+          "startTime": "2025-02-16T11:11:03.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.779337",
+              "semanticType": "Unknown",
+              "placeID": "ChIJk0sNQhyLtIkRiVYdJN9J6HI",
+              "placeLocation": "geo:38.406748,-78.715857"
+            },
+            "probability": "0.993266"
+          }
+        },
+        {
+          "endTime": "2025-02-16T11:22:08.092-05:00",
+          "startTime": "2025-02-16T11:11:03.999-05:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.954027",
+              "semanticType": "Unknown",
+              "placeID": "ChIJrQxoKA-LtIkRXKp7d4v4QpU",
+              "placeLocation": "geo:38.406748,-78.715857"
+            },
+            "probability": "0.993266"
+          }
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "center_location": "geo:37.915955000000004,-78.9440142",
+      "visit_count": 5,
+      "place_details": {
+        "formatted_address": "39 Mountain Inn Loop, Wintergreen Resort, VA 22967, USA",
+        "geometry": {
+          "location": {
+            "lat": 37.9143903,
+            "lng": -78.94376199999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.9157656302915,
+              "lng": -78.94272431970849
+            },
+            "southwest": {
+              "lat": 37.9130676697085,
+              "lng": -78.9454222802915
+            }
+          }
+        },
+        "name": "39 Mountain Inn Loop(skiing)",
+        "place_id": "ChIJuUxsSSRps4kRxWwLjqf-sv4",
+        "types": [
+          "premise"
+        ]
+      },
+      "visits": [
+        {
+          "endTime": "2025-02-22T10:09:52.125-05:00",
+          "startTime": "2025-02-22T09:49:39.089-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.561608",
+              "semanticType": "Searched Address",
+              "placeID": "ChIJuUxsSSRps4kRxWwLjqf-sv4",
+              "placeLocation": "geo:37.914526,-78.943512"
+            },
+            "probability": "0.933020"
+          }
+        },
+        {
+          "endTime": "2025-02-22T12:24:49.000-05:00",
+          "startTime": "2025-02-22T11:39:32.999-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.502044",
+              "semanticType": "Unknown",
+              "placeID": "ChIJoe6zniBps4kRtua4FjjoN7A",
+              "placeLocation": "geo:37.921059,-78.946877"
+            },
+            "probability": "0.571795"
+          }
+        },
+        {
+          "endTime": "2025-03-02T11:31:57.095-05:00",
+          "startTime": "2025-03-02T11:02:07.099-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.457992",
+              "semanticType": "Searched Address",
+              "placeID": "ChIJuUxsSSRps4kRxWwLjqf-sv4",
+              "placeLocation": "geo:37.914526,-78.943512"
+            },
+            "probability": "0.873390"
+          }
+        },
+        {
+          "endTime": "2025-03-02T15:14:42.090-05:00",
+          "startTime": "2025-03-02T12:10:17.015-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.507552",
+              "semanticType": "Unknown",
+              "placeID": "ChIJYSNgOCRps4kRcde6mhbDY2c",
+              "placeLocation": "geo:37.914850,-78.943880"
+            },
+            "probability": "0.748527"
+          }
+        },
+        {
+          "endTime": "2025-03-02T12:14:37.000-05:00",
+          "startTime": "2025-03-02T12:10:17.015-05:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.934860",
+              "semanticType": "Unknown",
+              "placeID": "ChIJWb8gxSVps4kR6IKkWgJJrLQ",
+              "placeLocation": "geo:37.914814,-78.942290"
+            },
+            "probability": "0.748527"
+          }
+        }
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "center_location": "geo:38.0892685,-78.4704085",
+      "visit_count": 4,
+      "place_details": {
+        "formatted_address": "440 Gander Dr, Charlottesville, VA 22901, USA",
+        "geometry": {
+          "location": {
+            "lat": 38.0895372,
+            "lng": -78.46834729999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.09093823029148,
+              "lng": -78.46695566970848
+            },
+            "southwest": {
+              "lat": 38.08824026970849,
+              "lng": -78.46965363029149
+            }
+          }
+        },
+        "name": "Goodwill Store and Donation Center(shopping)",
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1800"
+              },
+              "open": {
+                "day": 0,
+                "time": "1200"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1900"
+              },
+              "open": {
+                "day": 1,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900"
+              },
+              "open": {
+                "day": 2,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1900"
+              },
+              "open": {
+                "day": 3,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900"
+              },
+              "open": {
+                "day": 4,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1900"
+              },
+              "open": {
+                "day": 5,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1900"
+              },
+              "open": {
+                "day": 6,
+                "time": "1000"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+            "Tuesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+            "Wednesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+            "Thursday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+            "Friday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+            "Saturday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+            "Sunday: 12:00\u2009\u2013\u20096:00\u202fPM"
+          ]
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109369311079204619825\">JuzJS</a>"
+            ],
+            "photo_reference": "AUy1YQ333pihee5eOpxsjbjkyZ0XyC_yv1tbkK2ohYUI32kH0vKRtPznTgbQQGRpwWGi4GXb3L7iQgab-vvS5JD6jJQiUKY1EqNw5UilqcJT-GZvQ_7q4OKDm9TtcAGFaRlneyE-0Q8JDT4qSUHIbnWP4Ur7i99wqs12BgoNEi3DGQVtdznH9kwJJv7jQN2nJ9SpWB8_b0X9O9YG11-WDbA2K95-q1npJhc54M_QYo-6SakHgRVUzmPMc3f8iov3SICqZhRKo01gjVChDOjZNm_tFBGx4thYiVk4Z4C3fPW9p2XPLdduWT7Tgyvwc24GRK2zy0ToLesBizKlr1jFGEe_w5EmVlGlZwicB3YKDRPenx6pW6bF6q394EbdBOF9hvRamUA0DuWjrfAplhsdrPKuWpf1TbY-fWZU9nARYlKiAnwJpXSbveCNLBH4OlOY72p3mzcnT_b3aAbs4hh6-a-rKVfFtwGUSyXCtNI35FaGtjY9XQQbbNEVVK-xRPwW5F06MrV4--H2pgLBxJc-u-r5y1ZPzLxEcZPYUeKe6LO3dbNAfyjigR1ULW1kmvcmKmzyZ1c4h0axAX9LPmpDaZ6eH6K0R8Rb7VymW5mgAGYl",
+            "width": 4032
+          },
+          {
+            "height": 2268,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112772343270281433597\">Monika Kessler</a>"
+            ],
+            "photo_reference": "AUy1YQ07diEzlpw15GBfYy6jE3RrMfysPbDN-hdwcst-7VzEnb4ABdSjLb8tylGrSEdz11zDv0fcuZVC84LWH8nknmDnwnReYFezovQnqLagsi9hDIq-HgCxjkb0M8Mf6T0ekRxzfiq8MBdaz5o3bxptTdKvuELc9OqJBTYAbxEiY2AbCbPkDN0ln3Kd71mYwP7MF6h2Ua9HbsKdg1bDDS8WvaKImv9xe9OIWpg-756WnQbXUvrcwPUKHc1WjrG2QndLIYQwXWAHXOiVZttZ2iRoEGuCIdEWaJavriqqqxkhvbbVWg9d96BIkaJb6yrediy8zyIUjZg3md0191ZnmgGuHuYZaDtjCc9hB4cpRhDZIrrdErNn8_f0Eox3R8XNIHT9HQTyi2Zyehnwz6cUcy9QUC8FNyrtjdg2BP-yHIzWfPcOtZJ3soBaqGUoQBYUn_rQ77OLTADJTcSs_gzUSDt5q0Ir-FiCzVFCDkYGqOOOhEqBLt9z92A-S6adtpbdAIWxkFC1n7N3vAZob4k-NzIFeRu8H3VBnld-xqVH4oWNRCRYe5VTsHAqOilj0xs8fGhDLEoLUJZc42-rt_fZzO9-X9Zda5ti1CQ3sfU5rW640Q0",
+            "width": 4032
+          },
+          {
+            "height": 2268,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112772343270281433597\">Monika Kessler</a>"
+            ],
+            "photo_reference": "AUy1YQ2x3Xfcmj9mxnbOj1zSUU4wy1oXvOlErsSSheXSjuJewkuM2ewBXncK3wS-DQxDMo6UQd3DQPJZa922RCFb-WdWNqmfPaDKTI1VWMngoZufbcN2FdhwuwTrfjPklHNkudavrMAR-LAAyjBDe7CXKlDyeIOIumHaeEmevbLWat_hzIpwnKxrwv2B3QEWkiDofr9YXwzqEN-oNJy2d8qE20mXWVdjJSpQZEfN6QNBfWU05jV5GWk7fJRzdcwNfUIm_8Fha2cdHrs2pcyIbuZH1xylu_VJHstNkXCv1udLCMNfnNM-x16vEQuRhzgX9E-kmuNIReDtu1N-DCO-dMSN9lWlxT6p8han_0nDF5dgeoQUJUhHFx0PSTfdmkkHAE5A-orxPJ4y1oqfT3uza537pZSQqJfpMUYNWEDL_h0fiZPPwxLOK0fNBQ6xOiTp93dOtOFLfn57tQE-S7AB1sNa3EHQZFdJL4du8eZb9ofliaP1Cm0nQl0zKi8KQtk6zO2L4aUAxduJejuIXecAxawhx0ZFryMuuuHY9_KtVgwXgZZHShs9llqHBn_IBzULX9K8GwdG-HlnclM3J_BNCEVl7ip4ajc7b8O2DINVD9cZz8g",
+            "width": 4032
+          },
+          {
+            "height": 1830,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113310933187570157722\">John LeMasney</a>"
+            ],
+            "photo_reference": "AUy1YQ1chABOkh1U84jy7GsrDBTIxMbXdCOdi5xvuz1ffXtF635usELMwB8lduSvu-18mliqYMRUJsj1tU_AmqNw_cLd-S-RLHRGt9eBSA3G8kBBeZRcm_l8Nf_G0J7gCNW0SwfOckZpzi68mt2KjpyHPxsAyljhLlJA7ZGp-hDYINA9PtGl9vqiorwPByedfQ-4xXx2RGl800e36WIMeLQpYPIEo3nbylbDaiCXGu_SA6q3w6eapWfIqFaj32gX1H2rFXtay069P3MWyU3I70ZWlJJzPHKoPZGhDWQ93ksZXbpQocFJihy7zaJzNzWiV4DRH9VLHhgUAa24CZ48nhxxt9B-SZcLcnZcb4jLJei96WFptDNkbkzvfs7n_s6BfRFgq5oXpzVdsF1okV3ymtdOU58HjLdeqNukzk3A996Axb29zKQ-cl-8hrhAVFBMTDpxQ9cDvBEf_NahEQY_0E1JI1j3YaEb1Jf7GH-p5xbeqUHdBjuXNDCG1XDYB4hm8X3-NgKtIoD-rfRDEERk41kbN5yDnmEbUTViAMyrkh1JjLyw3GMZ418TW3MOdhMBKd6DqT1PwO9MYzqMbeh3NeQZnNSr6zQjHe755CHbJBv7fwQ",
+            "width": 1830
+          },
+          {
+            "height": 2268,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112772343270281433597\">Monika Kessler</a>"
+            ],
+            "photo_reference": "AUy1YQ0LGAdhNjyKjNRVDfpIRhn0ivnMLpKB-y9_QPeMQQA-7UjuPUQGk32phTgHaeCn2NyzRHFk71wo2HdLSTKk5vNpBtw4aXUd0tqphPWxasxOpG-X9qlK698wmkmN4B1s3k8MWqRrriiD-aL4dmJq0lRCKdRMbV3sy3G49CNsSdC4tLcJpXgyFo3cvg88LPeP9F5E8023mnLu33pOL1DMue8SJri98poutfDia6pTzdB21SAmZYPfDy03dffhDUWL0OnRLUT-aS0I_mdqj6zfjaLkIT6R9cvKnD2BMsm5ZtcfxeZNuBVOu0rUO-lZySYQ6pxJ47kjtTePEWiQXdMGa3W5OXaEWmi5GhiylOCe9TwY3-2SOdYCBrCD-68SqiGfjy2iye5BRkPI5PhMcIrhOm4ZkMwGDvZfcZfPCiAyvh298gjXNZgF6Q8W6p9AXGO18eT0OOypwz5Q2BRDzDoYEgIN7xvipLfOaMbBXs8Xxe9CNYedkUblGGFmtBXBv9qNylqD7Qx4Fm0c6JFzRWHgjTyal5dEeoqUreRUJ4W52inESRAl-PvqPplRRX-FHoF_8mhpBtWhXk_2O168S0r6JOOqlmaaFPrzIuVSoJ0xisw",
+            "width": 4032
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109369311079204619825\">JuzJS</a>"
+            ],
+            "photo_reference": "AUy1YQ2C3ilV_7Ut9m5Cou1nKLu-Dqr52AGYefCS4ZKCGljnoxF6YP4Gp7s6WF12T3U0ve7PIGhG3VWpv7bA7Nytn8C2Plj3jnDgIm-63hAmVDyzEot8NdNGelmAMlKSaleWmxFB5i0xVFTtgFjLeBhR88FX9NXYHB53AYE-2avNxMGrzCTQaymfe0FQLQi2NNPZswpahY1KO9POaJ9LNN8FpUIK1lSlJrw9muyJifl_xsY1ZEHGTY-dht4mvPSDtDemWs5chN1N59yXZca3qZFn4NdBfWcxCyy2-kHC1pafRcQhvERjcRNiDTIbJqugnaIwk6k-zNJ079kGt50wwhM0o99rXsE78xGodEUFwDynUzZwbuLOFOyeCV5OS17DyiFasAtxTHsleC5sOsnd6_lOExi6Jd_v3ZQBt9XpT-WD6v_pgcfSeYyY83kFgDdLl_4PcBgoYtY-qwklRlmzLwYFkc6SsAnduRv07bFxnJO4VwSbxJExuLOj4ISQ_3iT4K2KDe26PbbrkITGdi5H4NSzjsHMjdtY39vJV__v1Xs5ezVQTOuEj88u2O9vP0nl1dECGRA7CzoSs4vldNfnHzH8X6t5KqkFEYxfisxyoYMK",
+            "width": 4032
+          },
+          {
+            "height": 2992,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115139915907390454769\">Tim Chester</a>"
+            ],
+            "photo_reference": "AUy1YQ2Erzz4jrOxt9jSkmK3m4o3iU3xt3tJ0AbDUcnEwNBfZLxMtL8HILelNbCkfg147sdBcIERVA6YZuXzBmFeS5DlkheEb09OHW1sz_4yITe0Cs6bgQaFgWK5LYTCzwQokl9hC-Cvz6lFvRXucXP9VU-olU03aK3gE5Bijr-ai8EGwQ2XSVeD3vocGHkTi8kka50zFnx-DWW9Vj2kvJlEhrG871WMoktnNAAzVJXWCfSs8Ob_q5MUsBDO4g2fCNwCN3vT_CpQpIk5YaUR8Nq3XnBS-QlwetndeduPlYtY3N3t8vBXDNj8-p0r1hn7I3UG2eccdiLRG1wcTUIbOIgX-okRfZInYRuy5SLZW24IrmIFeWeAnmmmvchNAujzzeozhAnmKwlPciN6_N8n_RSeKp4O94riTj7if_pb5wmHGqAL7ueWFefrBIVH9QlSpTeoNGmoZ8odZKPO56NW5Rp20lZXwVjgLVqlG56poqQ_-1R-lSl_baVAuHUy-ntgJ8GPOIgspHGXNT2SO7Q8ZLenxmrborqH72L1kIUmoa4z4Tw6DOrUAa8C-fC_303DNluRgVJpJVx2gtATFbovmTwJSuSTBTLBx1WXP0dliWnq_3vn-tDg",
+            "width": 2992
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112772343270281433597\">Monika Kessler</a>"
+            ],
+            "photo_reference": "AUy1YQ0SkpYw434RQWwqG09rEPsql8ZvGmTOPlQhZmi9Brk9ZWebkf3wrW5oZLw0aPmVkn4sWEQPu_o6f4SA4Jv9n4aRVB-YFn9PGOorVI1QDWFD-biPY16VbnLfXPIv8ZfQeMwomPIXyZvZTMCYQeze5j7BWU3MXst3l7NqckA3VcFnTTILjSCBVQVBdVeDkyoaszR-UdS124vVf1Tfuw3M7FPxgeSE7rEPoLsuHUpMSNrP2Mxq8lxa7U9kMGTh7oXkO82sCMwJFi2GbErK6weeGTovs4hSPQcAIh89zMilwpm3sVc2BIjGpeajTcByTt6TFE4ftrsR_NUh1tXX2Y0iDZbwMvF8AqpiOePsfOL9DEEMCxeEP_ZEe2ItWj5I70549sUNznFurNcb_j8Dat_ar8JkCyto0nIFEwF8hrYxTiA-31k_Tpt6eq5js7qprqjo7zDC6WI7RZUco5y34jdXXHybJC4c_SFx8Ff45R3buMJo2qz6rpBPRzIPIz0DyrpgEBYbPCh-rUH9FUi_7G7GSFy_kVEwlfLNvySob_WOD3Ji1LZ-goJMTOj4IhjEG-QIEF_MJvF_eIl0_9Hqh7lcCTSSrJR1EoAYVxSRGz1ce77b_Gtw",
+            "width": 2268
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109369311079204619825\">JuzJS</a>"
+            ],
+            "photo_reference": "AUy1YQ2tvlIIBfASSSFpN87Jqq7ivk4MMHBXFG0GJ_jF2fBmqqtcftISlAAoj6s-RiMyrMx-UbIenytPnnreCJldnxPzSgdliugJXtSnQ-NIvktk16wmskKoKrax6Is4mcN1IkyYqJLa9R_2Q5UZheBNe7lZPbnvLzwV3AzFjiN67_mqlnGtd6gD0uP72aPo2_uSShdHluPJVzY888sfFZDJz_NxRMjJksP73rvSEk_UE0TbnBcts8Ek2b7AsewtULAPgeG3cQIGqC9dx_aU-ZUrPunw6jjohppnjbWFgha9K5-Ymo0cfKhfUJwK_7bK3YFmiUwrHEDkrgIFpkuyVDrc5E4_EuYqRDy6dWveAnNut2wZpCdK81r07ipEGuXWceNAXw5Cj0JQtonpS05UqbomTfUCR2tlw2QeplYNVCPS1fBMS4s-Sh0w6WjM3NS0H6Jjd5aC4Rnj1mG2CdDTlH5tfcTnfCUFrKNcuR7HQUaQiWtYvqdb3jEGNUyjTBHb55HK3S7GMIDoiaOGCweaeAijE-oabGpDOQJxjc7Dip6uIC6WCX0EWAv2zrqFY1w7cJ8BnA7Nq073v9NO_bz_T3AAqvxydYj9JvJHSirY3mJSPtKC27HF",
+            "width": 4032
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109822403952443908757\">Mustard</a>"
+            ],
+            "photo_reference": "AUy1YQ2TOcpFyIovzrngClnuB6AnpOsaG4-EDgIU_bJHrCM1OrZI6PtGxglyqrqtIUePHWiQl9jSLHtQvoyF72LTqSfMy7cA_4mbcJUiTMjYxuf7pnootNBCIv-eyxXUWGN7ep04y2FOsI628G4exGekebJbVfu_CYhETYfFzBuIOYELT27zVxaC0TwAVi5hE0FOsyz8IhY8_g7YMHfBnowheB7FBvJWoKxXPlQzbiBNjlakIVKu1-HFN-_9Ss0_ViPHD7o-L2w1qDxgr5HMG8fuReJIL3mU6A8UZWKiEVcplaNzRqqbjGtv_Z-hKpIlhezJdhEMJp8BNY_NcskMGhtb10otGPeKnVk5R6v_I6ajrpmpuhxHjwhlSy0QSY8rD-Q8RfWVubLEKZVCLeEIwIpt5OWA3gCojAfC9LmNCSmcN0g2N6mI8jQnTQ5-GaVAOo7A_HSOFpCROBpnzBkz3k2P2enwtDUgFrrZrmGCsq0gvlJZjFIuyY82o9vSzvmYZZq5ZsvZ-XK91kEZCNskOmyoWXrlxNUjyY2Fkh3mKNy0-tu32zwbUPdRioXrjsJO3TVvDAQhyjJa5t4PXDcftRU2bTawIJ9tQ8-oTzzUAGV2vUTblNLl",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJeb9m0uV3tIkRWv91Rgaveo0",
+        "rating": 3.6,
+        "types": [
+          "store",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 153
+      },
+      "visits": [
+        {
+          "endTime": "2025-03-01T10:15:21.100-05:00",
+          "startTime": "2025-03-01T10:05:47.096-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.586305",
+              "semanticType": "Unknown",
+              "placeID": "ChIJeb9m0uV3tIkRWv91Rgaveo0",
+              "placeLocation": "geo:38.089537,-78.468347"
+            },
+            "probability": "0.596523"
+          }
+        },
+        {
+          "endTime": "2025-03-01T10:15:21.100-05:00",
+          "startTime": "2025-03-01T10:08:18.076-05:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.992553",
+              "semanticType": "Unknown",
+              "placeID": "ChIJmYYxW5Z3tIkRw3IRPyjuvPI",
+              "placeLocation": "geo:38.089676,-78.468678"
+            },
+            "probability": "0.596523"
+          }
+        },
+        {
+          "endTime": "2025-03-01T10:30:59.104-05:00",
+          "startTime": "2025-03-01T10:17:18.096-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.416362",
+              "semanticType": "Unknown",
+              "placeID": "ChIJWeQp-f53tIkRrGHM0kx_VtQ",
+              "placeLocation": "geo:38.089293,-78.473802"
+            },
+            "probability": "0.919298"
+          }
+        },
+        {
+          "endTime": "2025-03-01T10:45:23.099-05:00",
+          "startTime": "2025-03-01T10:31:31.098-05:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.149833",
+              "semanticType": "Unknown",
+              "placeID": "ChIJ0c59vv53tIkRx3RTzC9IqqA",
+              "placeLocation": "geo:38.088568,-78.470807"
+            },
+            "probability": "0.560360"
+          }
+        }
+      ]
+    },
+    {
+      "cluster_id": 10,
+      "center_location": "geo:38.85584033333333,-77.33635133333334",
+      "visit_count": 3,
+      "place_details": {
+        "formatted_address": "11350 Random Hills Rd #837, Fairfax, VA 22030, USA",
+        "geometry": {
+          "location": {
+            "lat": 38.8575773,
+            "lng": -77.33833870000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 38.85883653029151,
+              "lng": -77.3370237197085
+            },
+            "southwest": {
+              "lat": 38.85613856970851,
+              "lng": -77.3397216802915
+            }
+          }
+        },
+        "name": "United Roofing & Exteriors(physical therapy)",
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "time": "0000"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ]
+        },
+        "photos": [
+          {
+            "height": 773,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115149574091992634676\">United Roofing &amp; Exteriors</a>"
+            ],
+            "photo_reference": "AUy1YQ39fymmbn4UpaBdHFpwz3jUwOpTG8uUXj3zaB1O_qmeJP8L5KHJqiPnmOAp35bzS0cmSNI-a7Pggs0f1Q2O1YsD7Hq9TjvWuwb0ie1KXDoTYs08sWhXwEpx18ovUGtjnF9kJLGB5h0bn11JgGNFfrwJRpjNi2figAWsTzCBWc-x6ADmnZkJSGfwegtFWHiD539Tu06cG9x3UPEciEIlDvV4tMrZK8yM0oC4dnkP6XMgXdgahXaMjzsze_V79sjxYrT9m_Cqw59KmrcXTROfUspFYthKo7Xl3cg6ZpsRZMBd_SubP8nwfLyvZtKQ8Tc2rPv0l8Lu-fE",
+            "width": 1030
+          },
+          {
+            "height": 857,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115149574091992634676\">United Roofing &amp; Exteriors</a>"
+            ],
+            "photo_reference": "AUy1YQ3k60-1HcDBivQJX0h-5-lw0MQarcY62P6IUkBsXQ-hFmpDevHL2sKil6qQShUQ2MhFj1q-iVZ8yNuzV9W3PxnqxWyOjtV99tYXT9CPwiGzTn-cG3oVBzaWc9A3WiPtRpGu0MVpigUC7W2j5L73Q1I3cFtEiEdHDtwPepSzpCM01_4wlJHUX1bgXmmAaNvOhkMuuhDpsTeBfj1KSbFHZvtY86KlKyWEav8X0WQonOE3Qluo6rewEgFcq6cLuAl1JVEaKqZLq0YhkLBaxitBqoZxzCZG25ilIK5aG_EYn2WIF3S3SdEsJCD7eiVUmgKLoYTgpXwh_Gw",
+            "width": 1142
+          },
+          {
+            "height": 857,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115149574091992634676\">United Roofing &amp; Exteriors</a>"
+            ],
+            "photo_reference": "AUy1YQ1SKW8_z--IgVBpdqf3t6O8kJFZs2pXhHxU3GUymXDuhF7EvtFJeUDgTbsbBcfKchlJ9gTifw89OmCXjc2xRpJPLxg0QtwacryxFYr65tFkNef4elueuTS1nIrRQe6LUg_BTlSD3kLMS8xXugQnIsdxEN842PUTmduqgFIpWD8TZHnIVJjcTYSrrqXqzSl0bITvxwc_Ksu-XhZj1e7BqfJD8hRV60saHYhxpwUgi-j0fKrrl1LCtHDng27DjW43pNJ2kLShHv-N80ldju7H1Owu3PQ4SKxVAtXWFvltEUEVLR059n6vqMSRsoEysffxgVLbZx3rg60",
+            "width": 1142
+          },
+          {
+            "height": 1920,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115603146040356040225\">Nicole EVANS</a>"
+            ],
+            "photo_reference": "AUy1YQ3-fPi7wYosMn6XqDs0jZ-Vvjt1U4JuN4hxxw5kVAtB-0i3UzC4JOnn4P_jBZvvzh3-hS35EUchrT9elVQ4PP4uCRhXGrclgnR_UP0_ijimB2aVnPRrO3JK4OAykOUK1nMsOddAk5Tu_bcCkFp1uhEMHzQ3fw2hhYHsaFKTQ3ndXoFvlRMv2PiO6YNOqbtw7VJHMHO07O0M6aM9McEExHo4bYGoTbjxrF9eJwFYTPBKKCOfFLt0s7vBhMRmZeL_6j1nLwdk4pubbnpPMZI-RSooIi26T9V4nP-1cMMoUm-2dQnwMkMhvdUuQGdw6oC3cwuteMYwGgUX6rUosi4jLXk9gv5Cp9YE-gS0gm8hbIRuxNQRrfxlWe73CRetHA7gXA9XX_S0oc711PeDUmNy26rLhmPJIWKbKun4nCOAx-MBwqVKpQNBBFX7lFmyhOmwlxdve-ysE4juR5OxtxhiE7PNc5PIxQHiP1DSR2Pe8GSv6XQJuZKCGePR5mKAERVKkWPtrFiukhSeINQzrOEO3JVSy2_bnmpliHA9ECXReGjpWS56-qa1VhlOLzUoj7IVdyikgeFi-D5O2ZYy-dNGf8DqUtmsHJB3Up_o7Kn-xws",
+            "width": 1080
+          },
+          {
+            "height": 857,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115149574091992634676\">United Roofing &amp; Exteriors</a>"
+            ],
+            "photo_reference": "AUy1YQ3iLaDfTkPuMcoITaAPxWl6VVNbKMg3WtCyh7g4HQXNZvTrU53y-CbLOnUVkSC7Tn9rrw_RIgf0e8ZdP4BvlNz0HHs_EnaDC6JLH0aUIsDaA7ZXiby8rKJcchTdMgrMzLJQji9IOXAuEpSIgWCsLnt7_O58AWVc__3kC5PhnIN2TdamOt8m0C1ixEIj3mH1HT9wQJ3cEKZ2cYVxLzgshSKnWTXnkTXQ6_vz-JpevhFomAh1oRa5gcttBYT4_erzGOX2VVEvU7gjPQg9KK4qnfftgojlzpEI9KHc_t-HWrN8FGRec_FcdXU7YaqWx2UcBhAvM2m3-l0",
+            "width": 1142
+          },
+          {
+            "height": 857,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115149574091992634676\">United Roofing &amp; Exteriors</a>"
+            ],
+            "photo_reference": "AUy1YQ0pG7-l-lzMB6l4-XYcUlsg4TnHk7cdWAZdAXBd73Y_328vBCAJhHa7HcFGo_YF1l-6s25ruoEegashJv_EOTCVmt9lhx7T3ugZLmeX1PXhWbnf-vP9jldrnspiMOslYw6LQrfTER_d72LC2JPJbLWgX4NylXygKB8t0JKj_wFi-s2DEvG7eDCu5JNse0dlg4svb4Wsaf9iw6pTqK6z-rAdwmyWG-UkpcCU6VW0Qr1-A108kKw6wgAeshhhRKrF8CIr8Cw5KSdOeEsAbDkqDWtBII6VC1qjwBlSZeXnJ3LgEcU460Z-RtOr6KBmtWdeXDhNVLq0bSg",
+            "width": 1142
+          },
+          {
+            "height": 857,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115149574091992634676\">United Roofing &amp; Exteriors</a>"
+            ],
+            "photo_reference": "AUy1YQ32XIMuvSSvFf60ngFkjIh6swPOgh8cyssm92Rm8NaIiSvf7fwhugAf7bnOwc8_wzyKSDlMf01frfk35NVShZpzmgq5L5XIkdPLDJAU1hTCnOrIyg_Bzv0es1GeJ7FAJALQjWzwZERqNC88ZS_3cj8MXtYEeb0c5BAqokpmcsmm0kyVm962PpijWeFn-Mj9sWp1WLKIiCNf-Sww8MNXbwAGNEajDHHCPAM_OeRe9bA667By9d6k5t0rLW8-3LufJcJNUtX_C3qg8ZXvxFnn0QgFDIzoll7-aVgDFpSr6MAyWeD6wVsWaFIq_4kayu1Vg7dZfchvCDo",
+            "width": 1142
+          },
+          {
+            "height": 857,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115149574091992634676\">United Roofing &amp; Exteriors</a>"
+            ],
+            "photo_reference": "AUy1YQ35zTr2J67reYh9l-zRJdQFH8HYdQRCzNGFR8eYB9hCyqNxOvXj92F8IhUYLh_xFzwIJaBz5MOViZwt3t7_Fiv8_7MQE8Teixr9p20rohllzuDojJtz1CH6LUwm3QIo25qb2L7HUlkTQbwRXTtuet2HKQMpIZTk9_jvP_8DcM75OHxjIXx5qI4-7YO5GC_-ig7Dj-ESIPcVFS-4TC01E4cUCeQW64GI0cwIxKTTLEbMCmT4jIrLQw45SKE0iAl6HktYEc88zxX8faSNWYgvpStdO5yQN5kS_KuB_oR-kV_uainWKNrxghffVVBxqROlOE8QTNrnvjs",
+            "width": 1142
+          },
+          {
+            "height": 2048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115149574091992634676\">United Roofing &amp; Exteriors</a>"
+            ],
+            "photo_reference": "AUy1YQ2TSUinJcNTPdXWBhELfS0-xPB1aA5qLuLH1jG0b_EUtCTW84xBb7ZK3NUW1HKmMeHg5UO6GCtT5dLF-_SIVfDl1Gi2_CQWcRAol2YXPNzDyPFOJ8Zi_M9iWHBmRaY4ZRZJzbtXmkN-0grTmaIr0hP44V45hTqETTVb2kGjbjEmgGiqLfzedWNhh5BgMAEn_a5JuT6KT7-Or6vExr4lOOTMkYPNPizdG8SmmZOmW_YGuKssbXmeuKpym2O6pLJ0Lmli8KAwLpbGdYRnWP8YY6v26kBaRxLgnuWDORCKTdqCScO9hZ7ppu7OLTSnYGbA48I3MQset5I",
+            "width": 1536
+          },
+          {
+            "height": 857,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115149574091992634676\">United Roofing &amp; Exteriors</a>"
+            ],
+            "photo_reference": "AUy1YQ0c1WFLGUubRTeTd_UfR9YV3Q6cKVI9E8gLJ-YvC5XC2j_jGjlFwcHx1ZWzYogTq50_S8H4-D67bycwEJTAYpR7xCGGfz1rMPMigGomWKUM2vOzIex0guZk3ajYmgwzBv8GVrObHkLgw2N4OQI1JYuHMsJVEUeMEc5UW6gwg4L08TrCyimwlUz6-btvFbUSH_lc5L7Hb3mFm7GHU_f_nCfAUWZljskQYwFda0VhnUKSoFMq05xCBB0COf0G6Y84MRziIqyuHgvZ3yDW4pZEQk1LzyxaVe-UL8K8rD-oersxCbDC-r1gLNAHCM-fr5oqxc0LnlmPnT4",
+            "width": 1142
+          }
+        ],
+        "place_id": "ChIJf-jX055ctokRE7QKav8o_AU",
+        "rating": 4.5,
+        "types": [
+          "roofing_contractor",
+          "general_contractor",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 183
+      },
+      "visits": [
+        {
+          "endTime": "2025-03-09T14:23:43.083-04:00",
+          "startTime": "2025-03-09T14:22:30.078-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.126445",
+              "semanticType": "Unknown",
+              "placeID": "ChIJf-jX055ctokRE7QKav8o_AU",
+              "placeLocation": "geo:38.857577,-77.338339"
+            },
+            "probability": "0.568996"
+          }
+        },
+        {
+          "endTime": "2025-03-09T15:23:33.089-04:00",
+          "startTime": "2025-03-09T14:23:43.083-04:00",
+          "visit": {
+            "hierarchyLevel": "0",
+            "topCandidate": {
+              "probability": "0.657074",
+              "semanticType": "Unknown",
+              "placeID": "ChIJI4hKpB9PtokR96MjeSrHRA8",
+              "placeLocation": "geo:38.855237,-77.334809"
+            },
+            "probability": "0.971962"
+          }
+        },
+        {
+          "endTime": "2025-03-09T15:23:33.089-04:00",
+          "startTime": "2025-03-09T14:23:43.083-04:00",
+          "visit": {
+            "hierarchyLevel": "1",
+            "topCandidate": {
+              "probability": "0.492207",
+              "semanticType": "Unknown",
+              "placeID": "ChIJkeRPbodPtokRc3tqtsWVxro",
+              "placeLocation": "geo:38.854707,-77.335906"
+            },
+            "probability": "0.971962"
+          }
+        }
+      ]
+    }
+  ]
+}
